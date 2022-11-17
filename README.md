@@ -1,2 +1,3 @@
 # Incremental-Diversity
-Codebase for Incremental Diversity
+
+Codebase and Journal Paper Components for Incremental Diversity

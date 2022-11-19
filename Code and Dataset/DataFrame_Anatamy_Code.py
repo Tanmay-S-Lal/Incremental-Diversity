@@ -1,4 +1,3 @@
-
 import time
 import math
 from tabulate import tabulate
@@ -107,25 +106,28 @@ def getMicrodata(no_of_records, K, sensitive_attribute, display):
     return diction, extra
 
 
-def getValuesInEq(diction, attribute_name):
+def getValuesInEq(eq_class, attribute_name):
 
-    return [record[attribute_name] for record in diction.values()]
+    return [record[attribute_name] for record in eq_class.values()]
 
 
 def getParent(child):
 
-    tree = {"Married": ["Married-civ-spouse", "Married-spouse-absent", "Married-AF-spouse"],
-            "Unmarried": ["Never-married", "Divorced", "Separated", "Widowed"]
+    tree = {"Married": ["Married-civ-spouse",
+                        "Married-spouse-absent",
+                        "Married-AF-spouse"],
+            "Unmarried": ["Never-married",
+                          "Divorced",
+                          "Separated",
+                          "Widowed"]
             }
 
     for parent, children in tree.items():
-
         if child in children:
             return parent
 
     else:
-
-        raise Exception("PARENT NOT FOUND")
+        raise Exception(f"PARENT NOT FOUND for: {child}")
 
 
 def ParentsCheck(value, existing_values, algo):
@@ -150,18 +152,27 @@ def ParentsCheck(value, existing_values, algo):
 
 def getDiseaseParent(child):
 
-    tree = {"Respiratory disease": ["Asthama", "Pneumonia", "Emphysema"],
-            "Excretory_system disorder": ["Uremia", "Nephritis", "Oedema"],
-            "Circulatory_system disorder": ["Cardiac arrest", "Angina Pectoris", "Cardiomyopathy"],
-            "Digestive disorder": ["Gastritis", "Jaundice", "Diarrhoea"],
-            "Mental disorder": ["Insomnia", "Schizophernia", "Dementia"]}
+    tree = {"Respiratory disease": ["Asthama",
+                                    "Pneumonia",
+                                    "Emphysema"],
+            "Excretory_system disorder": ["Uremia",
+                                          "Nephritis",
+                                          "Oedema"],
+            "Circulatory_system disorder": ["Cardiac arrest",
+                                            "Angina Pectoris",
+                                            "Cardiomyopathy"],
+            "Digestive disorder": ["Gastritis",
+                                   "Jaundice",
+                                   "Diarrhoea"],
+            "Mental disorder": ["Insomnia",
+                                "Schizophernia",
+                                "Dementia"]}
 
     for parent, children in tree.items():
-
         if child in children:
             return parent
-
-    raise Exception("PARENT NOT FOUND for {}".format(child))
+    else:
+        raise Exception(f"PARENT NOT FOUND for: {child}")
 
 
 def DiseaseParentsCheck(value, existing_values):
@@ -175,13 +186,13 @@ def DiseaseParentsCheck(value, existing_values):
 
 
 def diversifyRecords(table, no_of_records, K, algo, sensitive_attribute):
-    """ This function rearranges the records based on Marital Status and
+    """ This function rearranges the records based on Sensitive Attribute and
     returns the New Microdata Dictionary. """
 
     """ 1) We create a separate dictionary to store values that do not fit in the current dictionary .
         and then later add the separated values back into the dictionary. """
 
-    original_table = copy.deepcopy(table)
+    original_table = copy.deepcopy(table)  # To prevent Accidental Modification
 
     temp_dict = {}
     new_dict = {}
@@ -512,14 +523,12 @@ def getTwoTables(diction, sensitive_attribute):
         for attribute_name, value in record.items():   # Each Attribute
 
             if attribute_name == sensitive_attribute:  # Storing in Sensitive Table
-
                 st_table[no][attribute_name] = value
 
             else:   # Storing in QIT Table
-
                 qit_table[no][attribute_name] = value
 
-        # Storing Group ID
+        # Storing Group ID in both ST and QIT
         qit_table[no]["Group ID"] = record["Group ID"]
         st_table[no]["Group ID"] = record["Group ID"]
 
@@ -542,13 +551,12 @@ def getSensitiveCount(st_table, no_of_records, K, sensitive_attribute):
 
         sensitive_count_dict[i] = {}      # Stores as {1:{}, 2:{}}
 
-    for record_no, record in st_table.items():  # Each Record
-
-        group_id = record["Group ID"]
-        sensitive_value = record[sensitive_attribute]
+    for record in st_table.values():  # Each Record
 
         # Particular Equivalence Class corresponding to record's Group ID
-        current_eq_class = sensitive_count_dict[group_id]
+        current_eq_class = sensitive_count_dict[record["Group ID"]]
+
+        sensitive_value = record[sensitive_attribute]
 
         # Checking if Sensitive Attribute already exists in the eq class
         if sensitive_value in current_eq_class.keys():
@@ -576,7 +584,8 @@ def maskData(attribute_name, value, group_id):
         lower = age - age % 10
         upper = lower + 10*factor - 1
 
-        return "({} - {})".format(lower, upper)
+        return f"({lower} - {upper})"
+        # return "({} - {})".format(lower, upper)
 
     elif attribute_name == "Gender":
 
@@ -602,7 +611,8 @@ def maskData(attribute_name, value, group_id):
 
     else:
 
-        return "NOT YET DEFINED"
+        raise Exception(
+            f"MASKING not yet defined for attribute: {attribute_name}")
 
 
 def getMaskedDictionary(microdata, attributes_to_mask):
@@ -642,8 +652,11 @@ def getDiversityPerc(received_table, no_of_records, K, verbose=False):
     eq_divs = []        # Average of Each EQ
 
     # Diversity is calculated for these non-masked attributes
-    attributes_diversity = ["Education", "Employment", "Marital Status", "Marital Parent",
-                            "Relationship", "Race", "Salary", "Disease", "Disease Parent"]
+    attributes_diversity = ["Education", "Employment",
+                            "Marital Status", "Marital Parent",
+                            "Relationship", "Race",
+                            "Salary", "Disease",
+                            "Disease Parent"]
 
     # Creating eq_dict nested structure
     eq_dict = {}
@@ -669,14 +682,14 @@ def getDiversityPerc(received_table, no_of_records, K, verbose=False):
 
             values = getValuesInEq(current_eq_class, attribute_name)
 
-            # Unique Values / Total Values
+            # Diversity = Unique Values / Total Values
             div = round(len(set(values))/len(values), 2)
 
             current_eq_avg += div
 
             if verbose:
-                print("\nDiversity for {} in EQ {} = {}\n".format(
-                    attribute_name, eq_no, div))
+                print(
+                    f"\nDiversity for {attribute_name} in EQ {eq_no} = {div}\n")
 
         current_eq_avg = round(current_eq_avg/len(attributes_diversity), 2)
 
@@ -730,11 +743,11 @@ def NestedDictionaryToDataFrame(masked_microdata):
 
     # Initialising Columns
     columns = None
-    for no in diction:    # Running loop only once because we need attribute names only
+    for no in diction:  # Running loop only once because we need attribute names only
         columns = diction[no].keys()
         break
 
-    # Initialising Final Data List
+    # Initialising Final Nested Data List
     data_list = [record.values() for record in diction.values()]
 
     df = pd.DataFrame(data_list, columns=columns)
@@ -743,7 +756,9 @@ def NestedDictionaryToDataFrame(masked_microdata):
 
 
 def displayDF(df, headers):
+
     print("\nDISPLAYING DATAFRAME\n")
+
     print(tabulate(df, headers=headers))
 
 

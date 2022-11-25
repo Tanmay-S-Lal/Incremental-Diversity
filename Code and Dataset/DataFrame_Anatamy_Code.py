@@ -850,11 +850,15 @@ def main(no_of_records, K, algo, display=False):
 
     displayPerformance(no_of_records, no_of_unique_values_for_senstive_attribute, K,
                        sensitive_attribute, total_time, residue_percentage, diversity_percentage, algo)
+    
+    if mode == 4:
 
-    # 7) Converting to Pandas Dataframe
-    masked_df, columns = NestedDictionaryToDataFrame(masked_microdata)
+        # 7) Converting to Pandas Dataframe
+        masked_df, columns = NestedDictionaryToDataFrame(masked_microdata)
 
-    displayDF(masked_df, columns)
+        displayDF(masked_df, columns)
+        
+        masked_df.to_csv("masked_microdata.csv", index=False)
 
     # 8) Returning the Performance Parameters values for the Graph Plotting
 
@@ -1114,19 +1118,22 @@ def ComparisonGraph():
 
 # Top Level Statements
 
-# TWO MODES:
+# MODES:
 
     # 1: Run Code for Specific Values of no_of_records, k, algorithm chosen
     # 2: Plot Performance Parameters Graph of Three Algorithms
+    # 3: Plot Comparison Graphs between Incremental Diversity and (l,e) diversity
+    # 4: Mode 1 + Convert Nested Dictionary to Pandas dataframe and save to csv
 
 
 print("Enter Code Mode:")
 print("1) Test for a Specific Case")
 print("2) Plot Graphs")
 print("3) Our Algo v/s Paper Algo")
+print("4) Mode 1 + Pandas Dataframe")
 mode = int(input("Enter Mode: "))
 
-if mode == 1:
+if mode == 1 or mode == 4:
 
     no_of_records = int(input("Enter no. of records: "))
     K = int(input("Enter k: "))

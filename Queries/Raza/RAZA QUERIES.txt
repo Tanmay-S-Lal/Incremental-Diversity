@@ -1,0 +1,6 @@
+SELECT GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RACE=WHITE AND SALARY>50K
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RACE='ASIAN-PAC-ISLANDER' AND SALARY<=50K
+SELECT AGE,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EDUCATION=PROF-SCHOOL AND RACE=BLACK
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RACE=BLACK AND SALARY>50K
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RACE=WHITE AND SALARY<=50K
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RELATIONSHIP=OWN-CHILD AND RACE=WHITE

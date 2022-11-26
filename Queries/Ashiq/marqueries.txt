@@ -1,0 +1,240 @@
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-SPOUSE-ABSENT
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-AF-SPOUSE
+
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RELATIONSHIP=NOT-IN-FAMILY
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RELATIONSHIP=OWN-CHILD
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RELATIONSHIP=OTHER-RELATIVE
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RELATIONSHIP=HUSBAND
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RELATIONSHIP=WIFE
+SELECT * FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RELATIONSHIP=UNMARRIED
+
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-SPOUSE-ABSENT
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-AF-SPOUSE
+
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-SPOUSE-ABSENT
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-AF-SPOUSE
+
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-SPOUSE-ABSENT
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-AF-SPOUSE
+
+
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-CIV-SPOUSE
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND DIVORCED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SEPARATED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND WIDOWED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-AF-SPOUSE
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND DIVORCED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-SPOUSE-ABSENT
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SEPARATED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND WIDOWED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-AF-SPOUSE
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SEPARATED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND WIDOWED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-AF-SPOUSE
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND SEPARATED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND WIDOWED
+SELECT AGE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND MARRIED-AF-SPOUSE
+
+
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-CIV-SPOUSE
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND DIVORCED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-SPOUSE-ABSENT
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SEPARATED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND WIDOWED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-AF-SPOUSE
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND DIVORCED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-SPOUSE-ABSENT
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SEPARATED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND WIDOWED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-AF-SPOUSE
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-SPOUSE-ABSENT
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SEPARATED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND WIDOWED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-AF-SPOUSE
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND SEPARATED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND WIDOWED
+SELECT GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND MARRIED-AF-SPOUSE
+
+
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-CIV-SPOUSE
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND DIVORCED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-SPOUSE-ABSENT
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SEPARATED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND WIDOWED
+SELECT ZIP_CODE  FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND MARRIED-AF-SPOUSE
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND DIVORCED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-SPOUSE-ABSENT
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SEPARATED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND WIDOWED
+SELECT ZIP_CODE  FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND MARRIED-AF-SPOUSE
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-SPOUSE-ABSENT
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SEPARATED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND WIDOWED
+SELECT ZIP_CODE  FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND MARRIED-AF-SPOUSE
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND SEPARATED
+SELECT ZIP_CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND WIDOWED
+SELECT ZIP_CODE  FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND MARRIED-AF-SPOUSE
+
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-SPOUSE-ABSENT
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED
+
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-CIV-SPOUSE
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND DIVORCED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SEPARATED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND WIDOWED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND DIVORCED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SEPARATED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND WIDOWED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SEPARATED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND WIDOWED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND SEPARATED
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND WIDOWED
+
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-CIV-SPOUSE
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND DIVORCED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SEPARATED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND WIDOWED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND DIVORCED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SEPARATED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND WIDOWED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SEPARATED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND WIDOWED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND SEPARATED
+SELECT AGE,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND WIDOWED
+
+
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-CIV-SPOUSE
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND DIVORCED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-SPOUSE-ABSENT
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SEPARATED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND WIDOWED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND DIVORCED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-SPOUSE-ABSENT
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SEPARATED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND WIDOWED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-SPOUSE-ABSENT
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SEPARATED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND WIDOWED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND SEPARATED
+SELECT GENDER ,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND WIDOWED
+
+
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-CIV-SPOUSE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND DIVORCED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SEPARATED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND WIDOWED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND DIVORCED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SEPARATED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND WIDOWED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND MARRIED-SPOUSE-ABSENT
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SEPARATED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND WIDOWED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND SEPARATED
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS= MARRIED-SPOUSE-ABSENT AND WIDOWED
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GOOD QUERIES.
+--------------
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SALARY<=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SALARY<=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SALARY<=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND SALARY<=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND SALARY<=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT AND SALARY<=50K
+
+
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NEVER-MARRIED AND SALARY<=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND SALARY>=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND SALARY>=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND SALARY>=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND SALARY>=50K
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT AND SALARY>=50K
+
+
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NOT-MARRIED AND RACE=WHITE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND RACE=WHITE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND RACE=WHITE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND RACE=WHITE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND RACE=WHITE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT AND RACE=WHITE
+
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NOT-MARRIED AND RACE=BLACK
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND RACE=BLACK
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND RACE=BLACK
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND RACE=BLACK
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND RACE=BLACK
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT AND RACE=BLACK
+
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NOT-MARRIED AND RACE=ASIAN-PAC-ISLANDER
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND RACE=ASIAN-PAC-ISLANDER
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND RACE=ASIAN-PAC-ISLANDER
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND RACE=ASIAN-PAC-ISLANDER
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND RACE=ASIAN-PAC-ISLANDER
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT AND RACE=ASIAN-PAC-ISLANDER
+
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NOT-MARRIED AND EDUCATION=BACHELORS
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND EDUCATION=HS-GRAD
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND EDUCATION=8TH
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND EDUCATION=DOCTORATE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND EDUCATION=7TH
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT AND RACE=PRESCHOOL
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND EDUCATION=MASTERS
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE AND EDUCATION=SOME-COLLEGE
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND EDUCATION=ASSOC-VOC
+
+
+
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NOT-MARRIED AND EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE ANDEMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIP-CODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND EMPLOYMENT=STATE-GOV
+
+
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=NOT-MARRIED AND EMPLOYMENT=SELF-EMP-NOT-INC
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND EMPLOYMENT=SELF-EMP-NOT-INC
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE EMPLOYMENT=PRIVATE
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND EMPLOYMENT=SELF-EMP-NOT-INC
+SELECT AGE,GENDER  FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=WIDOWED AND EMPLOYMENT=PRIVATE
+SELECT AGE,GENDER  FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARITAL-SPOUSE-ABSENT EMPLOYMENT=FEDERAL-GOV
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=DIVORCED AND EMPLOYMENT=FEDERAL-GOV
+SELECT AGE,GENDER FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=MARRIED-CIV-SPOUSE ANDEMPLOYMENT=PRIVATE
+SELECT AGE,GENDER  FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITAL_STATUS=SEPARATED AND EMPLOYMENT=?

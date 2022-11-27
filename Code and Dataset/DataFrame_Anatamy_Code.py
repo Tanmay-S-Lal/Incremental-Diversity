@@ -858,7 +858,7 @@ def main(no_of_records, K, algo, display=False):
 
         displayDF(masked_df, columns)
         
-        masked_df.to_csv("masked_microdata.csv", index=False)
+        masked_df.to_csv(f"masked_microdata(Records = {no_of_records}, k = {K}).csv", index=False)
 
     # 8) Returning the Performance Parameters values for the Graph Plotting
 

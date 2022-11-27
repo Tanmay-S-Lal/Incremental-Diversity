@@ -850,15 +850,16 @@ def main(no_of_records, K, algo, display=False):
 
     displayPerformance(no_of_records, no_of_unique_values_for_senstive_attribute, K,
                        sensitive_attribute, total_time, residue_percentage, diversity_percentage, algo)
-    
+
     if mode == 4:
 
         # 7) Converting to Pandas Dataframe
         masked_df, columns = NestedDictionaryToDataFrame(masked_microdata)
 
         displayDF(masked_df, columns)
-        
-        masked_df.to_csv(f"masked_microdata(Records = {no_of_records}, k = {K}).csv", index=False)
+
+        masked_df.to_csv(
+            f"masked_microdata_Records_{no_of_records}_k_{K}.csv", index=False)
 
     # 8) Returning the Performance Parameters values for the Graph Plotting
 

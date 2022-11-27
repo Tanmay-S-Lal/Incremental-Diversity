@@ -1,0 +1,12 @@
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EDUCATION=HS-GRAD AND SALARY>50K
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EDUCATION=SOME-COLLEGE AND RACE=BLACK
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EDUCATION=BACHELORS AND EMPLOYMENT=STATE-GOV
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EDUCATION=8th AND RELATIONSHIP=NOT-IN-FAMILY
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EMPLOYMENT=STATE-GOV AND MARITALSTATUS=NEVER-MARRIED
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EMPLOYMENT=FEDERAL-GOV AND RELATIONSHIP=OWN-CHILD
+
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EDUCATION=BACHELORS GROUP BY EMPLOYMENT
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EMPLOYMENT=PRIVATE GROUP BY EDUCATION
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE MARITALSTATUS=SEPARATED GROUP BY EMPLOYMENT
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE RACE=ASIAN-PAC-ISLANDER GROUP BY EDUCATION
+SELECT AGE,GENDER,ZIPCODE FROM 'plenary-chalice-369413.bigquery_dataset_incremental_diversity.Masked_Data-Table' WHERE EDUCATION=DOCTORATE GROUP BY RACE

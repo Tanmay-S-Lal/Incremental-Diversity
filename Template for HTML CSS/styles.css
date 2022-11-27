@@ -1,0 +1,12 @@
+/* Classes defined by us */
+
+.Picture {
+  margin: auto;
+  display: block;
+  width: 50%;
+  height: auto;
+}
+
+.Center {
+  text-align: center;
+}

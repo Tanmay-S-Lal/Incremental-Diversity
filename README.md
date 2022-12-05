@@ -2,9 +2,13 @@
 
 Codebase and Journal Paper Components for Incremental Diversity
 
+## Original Table Link
+
+[Original_Microdata_Records_1000_k_3](https://storage.googleapis.com/incremental_diversity_dataset/original_microdata_Records_1000_k_3.csv)
+
 ## Masked Table Link
 
-[Mased_Microdata_Records_1000_k_3](https://storage.googleapis.com/incremental_diversity_dataset/masked_microdata_Records_1000_k_3.csv)
+[Masked_Microdata_Records_1000_k_3](https://storage.googleapis.com/incremental_diversity_dataset/masked_microdata_Records_1000_k_3.csv)
 
 ## Queries Link
 

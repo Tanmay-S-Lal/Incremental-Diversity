@@ -853,6 +853,10 @@ def main(no_of_records, K, algo, display=False):
 
     if mode == 4:
 
+        # df, columns = NestedDictionaryToDataFrame(original_table)
+        # df.to_csv(
+        #     f"original_microdata_Records_{no_of_records}_k_{K}.csv", index=False)
+
         # 7) Converting to Pandas Dataframe
         masked_df, columns = NestedDictionaryToDataFrame(masked_microdata)
 

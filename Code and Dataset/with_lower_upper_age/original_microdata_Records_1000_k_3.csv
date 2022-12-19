@@ -1,0 +1,1001 @@
+Age,Gender,Zip Code,Education,Employment,Marital Status,Marital Parent,Relationship,Race,Salary,Disease,Disease Parent,Group ID
+39,Male,77516,Bachelors,State-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,1
+50,Male,83311,Bachelors,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,1
+38,Male,215646,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,1
+53,Male,234721,11th,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Nephritis,Excretory_system disorder,2
+28,Female,338409,Bachelors,Private,Married-civ-spouse,Married,Wife,Black,<=50K,Cardiomyopathy,Circulatory_system disorder,2
+37,Female,284582,Masters,Private,Married-civ-spouse,Married,Wife,White,<=50K,Cardiac arrest,Circulatory_system disorder,2
+49,Female,160187,9th,Private,Married-spouse-absent,Married,Not-in-family,Black,<=50K,Jaundice,Digestive disorder,3
+52,Male,209642,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,3
+31,Female,45781,Masters,Private,Never-married,Unmarried,Not-in-family,White,>50K,Diarrhoea,Digestive disorder,3
+42,Male,159449,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,4
+37,Male,280464,Some-college,Private,Married-civ-spouse,Married,Husband,Black,>50K,Gastritis,Digestive disorder,4
+30,Male,141297,Bachelors,State-gov,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Emphysema,Respiratory disease,4
+23,Female,122272,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,5
+32,Male,205019,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Nephritis,Excretory_system disorder,5
+40,Male,121772,Assoc-voc,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Asthama,Respiratory disease,5
+34,Male,245487,7th-8th,Private,Married-civ-spouse,Married,Husband,Amer-Indian-Eskimo,<=50K,Uremia,Excretory_system disorder,6
+25,Male,176756,HS-grad,Self-emp-not-inc,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,6
+32,Male,186824,HS-grad,Private,Never-married,Unmarried,Unmarried,White,<=50K,Angina Pectoris,Circulatory_system disorder,6
+38,Male,28887,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,7
+43,Female,292175,Masters,Self-emp-not-inc,Divorced,Unmarried,Unmarried,White,>50K,Jaundice,Digestive disorder,7
+40,Male,193524,Doctorate,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,7
+54,Female,302146,HS-grad,Private,Separated,Unmarried,Unmarried,Black,<=50K,Schizophernia,Mental disorder,8
+35,Male,76845,9th,Federal-gov,Married-civ-spouse,Married,Husband,Black,<=50K,Gastritis,Digestive disorder,8
+43,Male,117037,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,8
+59,Female,109015,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Schizophernia,Mental disorder,9
+56,Male,216851,Bachelors,Local-gov,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,9
+19,Male,168294,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,9
+54,Male,180211,Some-college,?,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Jaundice,Digestive disorder,10
+39,Male,367260,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,10
+49,Male,193366,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,10
+23,Male,190709,Assoc-acdm,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,11
+20,Male,266015,Some-college,Private,Never-married,Unmarried,Own-child,Black,<=50K,Pneumonia,Respiratory disease,11
+45,Male,386940,Bachelors,Private,Divorced,Unmarried,Own-child,White,<=50K,Asthama,Respiratory disease,11
+30,Male,59951,Some-college,Federal-gov,Married-civ-spouse,Married,Own-child,White,<=50K,Pneumonia,Respiratory disease,12
+22,Male,311512,Some-college,State-gov,Married-civ-spouse,Married,Husband,Black,<=50K,Diarrhoea,Digestive disorder,12
+48,Male,242406,11th,Private,Never-married,Unmarried,Unmarried,White,<=50K,Jaundice,Digestive disorder,12
+21,Male,197200,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,13
+19,Female,544091,HS-grad,Private,Married-AF-spouse,Married,Wife,White,<=50K,Emphysema,Respiratory disease,13
+31,Male,84154,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,13
+48,Male,265477,Assoc-acdm,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,14
+31,Male,507875,9th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,14
+53,Male,88506,Bachelors,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,14
+24,Male,172987,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,15
+49,Female,94638,HS-grad,Private,Separated,Unmarried,Unmarried,White,<=50K,Oedema,Excretory_system disorder,15
+25,Male,289980,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,15
+57,Male,337895,Bachelors,Federal-gov,Married-civ-spouse,Married,Husband,Black,>50K,Oedema,Excretory_system disorder,16
+53,Male,144361,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,16
+44,Female,128354,Masters,Private,Divorced,Unmarried,Unmarried,White,<=50K,Angina Pectoris,Circulatory_system disorder,16
+41,Male,101603,Assoc-voc,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,17
+29,Male,271466,Assoc-voc,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,17
+25,Female,32275,Some-college,Private,Married-civ-spouse,Married,Wife,Other,<=50K,Insomnia,Mental disorder,17
+18,Female,226956,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,18
+47,Female,51835,Prof-school,Private,Married-civ-spouse,Married,Wife,White,>50K,Asthama,Respiratory disease,18
+50,Male,251585,Bachelors,Federal-gov,Divorced,Unmarried,Not-in-family,White,>50K,Gastritis,Digestive disorder,18
+47,Male,109832,HS-grad,Self-emp-inc,Divorced,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,19
+43,Male,237993,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,19
+46,Male,216666,5th-6th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,19
+35,Male,56352,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,20
+41,Male,147372,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,20
+30,Male,188146,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,20
+30,Male,59496,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,21
+32,Male,293936,7th-8th,?,Married-spouse-absent,Married,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,21
+48,Male,149640,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,21
+42,Male,116632,Doctorate,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,22
+29,Male,105598,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,22
+36,Male,155537,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,22
+28,Female,183175,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,23
+53,Female,169846,HS-grad,Private,Married-civ-spouse,Married,Wife,White,>50K,Asthama,Respiratory disease,23
+49,Male,191681,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,23
+25,Male,200681,Some-college,?,Never-married,Unmarried,Own-child,White,<=50K,Pneumonia,Respiratory disease,24
+19,Male,101509,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,24
+31,Female,309974,Bachelors,Private,Separated,Unmarried,Own-child,Black,<=50K,Emphysema,Respiratory disease,24
+29,Male,162298,Bachelors,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,25
+23,Male,211678,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,25
+79,Male,124744,Some-college,Private,Married-civ-spouse,Married,Other-relative,White,<=50K,Uremia,Excretory_system disorder,25
+27,Male,213921,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,26
+40,Male,32214,Assoc-acdm,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,26
+67,Male,212759,10th,?,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,26
+18,Female,309634,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,27
+31,Male,125927,7th-8th,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,27
+18,Male,446839,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,27
+52,Male,276515,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,28
+46,Female,51618,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Oedema,Excretory_system disorder,28
+59,Male,159937,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,28
+44,Female,343591,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,>50K,Dementia,Mental disorder,29
+53,Female,346253,HS-grad,Private,Divorced,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,29
+49,Male,268234,HS-grad,Local-gov,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,29
+33,Male,202051,Masters,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,30
+30,Male,54334,9th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,30
+43,Female,410867,Doctorate,Federal-gov,Never-married,Unmarried,Not-in-family,White,>50K,Diarrhoea,Digestive disorder,30
+57,Male,249977,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,31
+37,Female,286730,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Diarrhoea,Digestive disorder,31
+28,Female,212563,Some-college,Private,Divorced,Unmarried,Unmarried,Black,<=50K,Asthama,Respiratory disease,31
+30,Female,117747,HS-grad,Private,Married-civ-spouse,Married,Wife,Asian-Pac-Islander,<=50K,Cardiac arrest,Circulatory_system disorder,32
+34,Male,226296,Bachelors,Local-gov,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,32
+29,Male,115585,Some-college,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,32
+48,Male,191277,Doctorate,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,33
+37,Male,202683,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Dementia,Mental disorder,33
+48,Female,171095,Assoc-acdm,Private,Divorced,Unmarried,Unmarried,White,<=50K,Emphysema,Respiratory disease,33
+32,Male,249409,HS-grad,Federal-gov,Never-married,Unmarried,Own-child,Black,<=50K,Insomnia,Mental disorder,34
+76,Male,124191,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,34
+44,Male,198282,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,34
+47,Female,149116,Masters,Self-emp-not-inc,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,35
+20,Female,188300,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,35
+29,Male,103432,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,35
+32,Male,317660,HS-grad,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,36
+17,Female,304873,10th,?,Never-married,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,36
+30,Male,194901,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,36
+31,Female,189265,HS-grad,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,37
+42,Male,124692,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,37
+24,Male,432376,Bachelors,Private,Never-married,Unmarried,Other-relative,White,<=50K,Cardiac arrest,Circulatory_system disorder,37
+38,Male,65324,Prof-school,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,38
+56,Male,335605,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,38
+28,Female,377869,Some-college,Private,Married-civ-spouse,Married,Wife,White,<=50K,Oedema,Excretory_system disorder,38
+36,Female,102864,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,39
+53,Male,95647,9th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,39
+56,Male,303090,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,39
+49,Male,197371,Assoc-voc,Local-gov,Married-civ-spouse,Married,Husband,Black,>50K,Jaundice,Digestive disorder,40
+55,Male,247552,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,40
+22,Male,102632,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,40
+21,Female,199915,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,41
+40,Male,118853,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,41
+30,Male,77143,Bachelors,Private,Never-married,Unmarried,Own-child,Black,<=50K,Insomnia,Mental disorder,41
+29,Male,267989,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,42
+19,Male,301606,Some-college,Private,Never-married,Unmarried,Own-child,Black,<=50K,Diarrhoea,Digestive disorder,42
+47,Female,287828,Bachelors,Private,Married-civ-spouse,Married,Wife,White,>50K,Nephritis,Excretory_system disorder,42
+20,Female,111697,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,43
+31,Male,114937,Assoc-acdm,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,43
+35,Male,129305,HS-grad,?,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,43
+39,Male,365739,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,44
+28,Female,69621,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,44
+24,Female,43323,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,44
+38,Male,120985,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,45
+37,Male,254202,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,45
+46,Female,146195,Assoc-acdm,Private,Divorced,Unmarried,Not-in-family,Black,<=50K,Angina Pectoris,Circulatory_system disorder,45
+38,Male,125933,Masters,Federal-gov,Married-civ-spouse,Married,Husband,White,>50K,Jaundice,Digestive disorder,46
+43,Male,56920,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,46
+27,Female,163127,Assoc-voc,Private,Married-civ-spouse,Married,Wife,White,<=50K,Emphysema,Respiratory disease,46
+20,Male,34310,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,47
+49,Male,81973,Some-college,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Gastritis,Digestive disorder,47
+61,Male,66614,HS-grad,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,47
+27,Female,232782,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,48
+19,Male,316868,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Pneumonia,Respiratory disease,48
+45,Female,196584,Assoc-voc,Private,Never-married,Unmarried,Not-in-family,White,>50K,Angina Pectoris,Circulatory_system disorder,48
+70,Male,105376,Some-college,Private,Never-married,Unmarried,Other-relative,White,<=50K,Oedema,Excretory_system disorder,49
+31,Female,185814,HS-grad,Private,Never-married,Unmarried,Unmarried,Black,<=50K,Cardiomyopathy,Circulatory_system disorder,49
+22,Male,175374,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,49
+36,Female,108293,HS-grad,Private,Widowed,Unmarried,Unmarried,White,<=50K,Oedema,Excretory_system disorder,50
+64,Male,181232,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,50
+43,Female,174662,Some-college,?,Divorced,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,50
+47,Female,186009,Some-college,Local-gov,Divorced,Unmarried,Unmarried,White,<=50K,Gastritis,Digestive disorder,51
+34,Female,198183,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,51
+33,Female,163003,Bachelors,Private,Never-married,Unmarried,Other-relative,Asian-Pac-Islander,<=50K,Asthama,Respiratory disease,51
+21,Male,296158,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,52
+52,Male,252903,HS-grad,?,Divorced,Unmarried,Not-in-family,White,>50K,Jaundice,Digestive disorder,52
+48,Male,187715,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,52
+23,Male,214542,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,53
+71,Male,494223,Some-college,Self-emp-not-inc,Separated,Unmarried,Unmarried,Black,<=50K,Cardiac arrest,Circulatory_system disorder,53
+29,Male,191535,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,53
+42,Male,228456,Bachelors,Private,Separated,Unmarried,Other-relative,Black,<=50K,Diarrhoea,Digestive disorder,54
+68,Female,38317,1st-4th,?,Divorced,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,54
+25,Female,252752,HS-grad,Private,Never-married,Unmarried,Unmarried,White,<=50K,Emphysema,Respiratory disease,54
+44,Female,78374,Masters,Self-emp-inc,Divorced,Unmarried,Unmarried,Asian-Pac-Islander,<=50K,Asthama,Respiratory disease,55
+28,Female,88419,HS-grad,Private,Never-married,Unmarried,Not-in-family,Asian-Pac-Islander,<=50K,Emphysema,Respiratory disease,55
+45,Male,201080,Masters,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,55
+36,Female,207157,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Emphysema,Respiratory disease,56
+39,Male,235485,Assoc-acdm,Federal-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,56
+46,Male,102628,Masters,State-gov,Widowed,Unmarried,Unmarried,White,<=50K,Diarrhoea,Digestive disorder,56
+18,Male,25828,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Nephritis,Excretory_system disorder,57
+66,Female,54826,Assoc-voc,Local-gov,Widowed,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,57
+27,Male,124953,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,57
+28,Male,175325,HS-grad,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,58
+51,Male,96062,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,58
+27,Male,428030,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,58
+28,Male,149624,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,59
+27,Female,253814,HS-grad,Private,Married-spouse-absent,Married,Unmarried,White,<=50K,Dementia,Mental disorder,59
+21,Male,312956,HS-grad,Private,Never-married,Unmarried,Own-child,Black,<=50K,Uremia,Excretory_system disorder,59
+34,Male,483777,HS-grad,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Oedema,Excretory_system disorder,60
+18,Male,183930,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,60
+33,Male,37274,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,60
+44,Male,181344,Some-college,Local-gov,Married-civ-spouse,Married,Husband,Black,>50K,Insomnia,Mental disorder,61
+43,Female,114580,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,61
+30,Male,633742,Some-college,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Gastritis,Digestive disorder,61
+40,Male,286370,7th-8th,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,62
+37,Male,29054,Some-college,Federal-gov,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,62
+34,Male,304030,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Schizophernia,Mental disorder,62
+41,Female,143129,Bachelors,Self-emp-not-inc,Divorced,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,63
+53,Female,135105,Bachelors,?,Divorced,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,63
+31,Female,99928,Masters,Private,Married-civ-spouse,Married,Wife,White,<=50K,Cardiomyopathy,Circulatory_system disorder,63
+58,Male,109567,Doctorate,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,64
+38,Female,155222,Some-college,Private,Divorced,Unmarried,Not-in-family,Black,<=50K,Dementia,Mental disorder,64
+24,Male,159567,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,64
+41,Male,523910,Bachelors,Local-gov,Married-civ-spouse,Married,Husband,Black,<=50K,Dementia,Mental disorder,65
+47,Male,120939,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,65
+41,Male,130760,Bachelors,Federal-gov,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,65
+23,Male,197387,5th-6th,Private,Married-civ-spouse,Married,Other-relative,White,<=50K,Jaundice,Digestive disorder,66
+36,Male,99374,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,66
+40,Female,56795,Masters,Federal-gov,Never-married,Unmarried,Not-in-family,White,>50K,Uremia,Excretory_system disorder,66
+35,Male,138992,Masters,Private,Married-civ-spouse,Married,Other-relative,White,>50K,Cardiac arrest,Circulatory_system disorder,67
+24,Male,32921,HS-grad,Self-emp-not-inc,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,67
+26,Female,397317,Masters,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,67
+19,Male,170653,HS-grad,?,Never-married,Unmarried,Own-child,White,<=50K,Diarrhoea,Digestive disorder,68
+51,Male,259323,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,68
+42,Female,254817,Some-college,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,68
+37,Female,48211,HS-grad,State-gov,Divorced,Unmarried,Unmarried,White,<=50K,Gastritis,Digestive disorder,69
+18,Female,140164,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,69
+36,Male,128757,Bachelors,Private,Married-civ-spouse,Married,Husband,Black,>50K,Jaundice,Digestive disorder,69
+35,Male,36270,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,70
+58,Female,210563,HS-grad,Self-emp-inc,Married-civ-spouse,Married,Wife,White,>50K,Nephritis,Excretory_system disorder,70
+17,Female,65368,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,70
+44,Male,160943,HS-grad,Local-gov,Married-civ-spouse,Married,Husband,Black,<=50K,Pneumonia,Respiratory disease,71
+37,Male,208358,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,71
+35,Female,153790,Some-college,Private,Never-married,Unmarried,Not-in-family,Amer-Indian-Eskimo,<=50K,Dementia,Mental disorder,71
+60,Male,85815,HS-grad,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,<=50K,Cardiac arrest,Circulatory_system disorder,72
+54,Male,125417,7th-8th,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,72
+37,Male,635913,Bachelors,Private,Never-married,Unmarried,Not-in-family,Black,>50K,Uremia,Excretory_system disorder,72
+50,Female,313321,Assoc-acdm,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,73
+38,Male,182609,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,73
+45,Male,109434,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,73
+25,Male,255004,10th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,74
+31,Male,197860,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,74
+64,Male,187656,1st-4th,?,Divorced,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,74
+90,Male,51744,HS-grad,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Insomnia,Mental disorder,75
+54,Male,176681,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Gastritis,Digestive disorder,75
+53,Female,140359,Preschool,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,75
+18,Female,243313,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,76
+60,Female,24215,10th,?,Divorced,Unmarried,Not-in-family,Amer-Indian-Eskimo,<=50K,Emphysema,Respiratory disease,76
+66,Male,167687,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,76
+75,Female,314209,Assoc-voc,Private,Widowed,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,77
+65,Female,176796,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,77
+35,Male,538583,11th,Private,Separated,Unmarried,Not-in-family,Black,<=50K,Cardiomyopathy,Circulatory_system disorder,77
+41,Female,130408,HS-grad,Private,Divorced,Unmarried,Unmarried,Black,<=50K,Cardiac arrest,Circulatory_system disorder,78
+25,Male,159732,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,78
+33,Female,110978,Some-college,Private,Divorced,Unmarried,Other-relative,Other,<=50K,Oedema,Excretory_system disorder,78
+28,Male,76714,Prof-school,Private,Never-married,Unmarried,Not-in-family,White,>50K,Asthama,Respiratory disease,79
+59,Male,268700,HS-grad,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,79
+40,Female,170525,Some-college,State-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,79
+41,Male,180138,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,80
+38,Male,115076,Masters,Local-gov,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,80
+23,Male,115458,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,80
+40,Male,347890,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Dementia,Mental disorder,81
+41,Female,196001,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Wife,White,<=50K,Asthama,Respiratory disease,81
+24,Male,273905,Assoc-acdm,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,81
+20,Male,119156,Some-college,?,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,82
+38,Male,179488,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,82
+56,Male,203580,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,82
+58,Male,236596,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Dementia,Mental disorder,83
+32,Female,183916,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,83
+40,Male,207578,Assoc-acdm,Private,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,83
+45,Male,153141,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,84
+41,Female,112763,Prof-school,Private,Married-civ-spouse,Married,Wife,White,>50K,Dementia,Mental disorder,84
+42,Female,390781,Bachelors,Private,Married-civ-spouse,Married,Wife,Black,<=50K,Dementia,Mental disorder,84
+59,Female,171328,10th,Local-gov,Widowed,Unmarried,Unmarried,Black,<=50K,Insomnia,Mental disorder,85
+19,Male,27382,Some-college,Local-gov,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,85
+58,Male,259014,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,85
+42,Male,303044,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Emphysema,Respiratory disease,86
+20,Female,117789,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,86
+32,Female,172579,HS-grad,Private,Separated,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,86
+45,Female,187666,Assoc-voc,Private,Widowed,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,87
+50,Male,204518,7th-8th,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,87
+36,Female,150042,Bachelors,Private,Divorced,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,87
+45,Male,98092,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,88
+17,Male,245918,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,88
+59,Male,146013,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,88
+26,Male,378322,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,89
+37,Male,257295,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Dementia,Mental disorder,89
+19,Male,218956,Some-college,?,Never-married,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,89
+64,Male,21174,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,90
+33,Female,185480,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,90
+33,Female,222205,HS-grad,Private,Married-civ-spouse,Married,Wife,White,>50K,Schizophernia,Mental disorder,90
+61,Male,69867,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Jaundice,Digestive disorder,91
+17,Male,191260,9th,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,91
+50,Male,30653,Masters,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,91
+27,Male,209109,Masters,Local-gov,Never-married,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,92
+30,Female,70377,HS-grad,Private,Divorced,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,92
+43,Male,477983,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Asthama,Respiratory disease,92
+44,Male,170924,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,93
+35,Female,190174,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,93
+25,Female,193787,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,93
+24,Female,279472,Some-college,Private,Married-civ-spouse,Married,Wife,White,>50K,Angina Pectoris,Circulatory_system disorder,94
+22,Female,34918,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,94
+42,Male,97688,Some-college,Local-gov,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,94
+34,Female,175413,Assoc-acdm,Private,Divorced,Unmarried,Unmarried,Black,<=50K,Angina Pectoris,Circulatory_system disorder,95
+60,Female,173960,Bachelors,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,95
+21,Male,205759,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,95
+57,Male,425161,Masters,Federal-gov,Married-civ-spouse,Married,Husband,White,>50K,Jaundice,Digestive disorder,96
+41,Male,220531,Prof-school,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,96
+50,Male,176609,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,96
+25,Female,371987,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,97
+50,Male,193884,7th-8th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,97
+36,Male,200352,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,97
+31,Female,127595,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,98
+29,Male,220419,Bachelors,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,98
+21,Male,231931,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Pneumonia,Respiratory disease,98
+27,Female,248402,Bachelors,Private,Never-married,Unmarried,Unmarried,Black,<=50K,Gastritis,Digestive disorder,99
+65,Male,111095,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,99
+37,Female,57424,Bachelors,Self-emp-inc,Divorced,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,99
+39,Female,157443,Masters,?,Married-civ-spouse,Married,Wife,Asian-Pac-Islander,<=50K,Jaundice,Digestive disorder,100
+24,Male,278130,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,100
+38,Male,169469,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,100
+48,Male,146268,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,101
+21,Female,153718,Some-college,Private,Never-married,Unmarried,Not-in-family,Asian-Pac-Islander,<=50K,Dementia,Mental disorder,101
+31,Male,217460,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,101
+55,Male,238638,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,102
+24,Female,303296,Some-college,Private,Married-civ-spouse,Married,Wife,Asian-Pac-Islander,<=50K,Gastritis,Digestive disorder,102
+43,Female,173321,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,102
+26,Male,193945,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,103
+46,Female,83082,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,103
+35,Male,193815,Assoc-acdm,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,103
+41,Male,34987,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,104
+26,Male,59306,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,104
+34,Male,142897,Masters,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Diarrhoea,Digestive disorder,104
+19,Female,860348,Some-college,?,Never-married,Unmarried,Own-child,Black,<=50K,Angina Pectoris,Circulatory_system disorder,105
+36,Female,205607,Bachelors,Self-emp-not-inc,Divorced,Unmarried,Not-in-family,Black,>50K,Diarrhoea,Digestive disorder,105
+22,Male,199698,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Asthama,Respiratory disease,105
+24,Male,191954,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,106
+77,Male,138714,Some-college,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,106
+22,Female,399087,5th-6th,Private,Married-civ-spouse,Married,Other-relative,White,<=50K,Pneumonia,Respiratory disease,106
+29,Female,423158,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,107
+62,Female,159841,HS-grad,Private,Widowed,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,107
+39,Male,174308,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,107
+43,Male,50356,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,108
+35,Male,186110,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,108
+29,Female,200381,11th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,108
+76,Male,174309,Masters,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,109
+63,Male,78383,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,109
+23,Female,211601,Assoc-voc,?,Never-married,Unmarried,Own-child,Black,<=50K,Gastritis,Digestive disorder,109
+43,Female,187728,Some-college,Private,Married-civ-spouse,Married,Wife,White,>50K,Schizophernia,Mental disorder,110
+58,Male,321171,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,110
+66,Male,127921,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,110
+41,Male,206565,Some-college,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Gastritis,Digestive disorder,111
+26,Male,224563,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,111
+47,Male,178686,Assoc-voc,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,111
+55,Male,98545,10th,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,112
+53,Male,242606,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,112
+17,Male,270942,5th-6th,Private,Never-married,Unmarried,Other-relative,White,<=50K,Oedema,Excretory_system disorder,112
+30,Male,94235,HS-grad,Private,Never-married,Unmarried,Other-relative,White,<=50K,Cardiomyopathy,Circulatory_system disorder,113
+49,Male,71195,Masters,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,113
+19,Male,104112,HS-grad,Private,Never-married,Unmarried,Unmarried,Black,<=50K,Pneumonia,Respiratory disease,113
+45,Male,261192,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Schizophernia,Mental disorder,114
+26,Male,94936,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,114
+38,Male,296478,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,114
+36,Male,119272,HS-grad,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Jaundice,Digestive disorder,115
+33,Male,85043,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,115
+22,Female,293364,Some-college,State-gov,Never-married,Unmarried,Own-child,Black,<=50K,Cardiomyopathy,Circulatory_system disorder,115
+43,Male,241895,Bachelors,Self-emp-not-inc,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,116
+67,Male,36135,11th,?,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,116
+30,Female,151989,Assoc-voc,?,Divorced,Unmarried,Unmarried,White,<=50K,Asthama,Respiratory disease,116
+56,Male,101128,Assoc-acdm,Private,Married-spouse-absent,Married,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,117
+31,Male,156464,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,117
+33,Male,117963,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,117
+26,Male,192262,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,118
+33,Male,111363,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Dementia,Mental disorder,118
+46,Male,329752,11th,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,118
+59,Male,372020,Bachelors,?,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,119
+38,Male,95432,HS-grad,Federal-gov,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,119
+65,Male,161400,11th,Private,Widowed,Unmarried,Unmarried,Other,<=50K,Uremia,Excretory_system disorder,119
+40,Male,96129,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,120
+42,Female,111949,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Emphysema,Respiratory disease,120
+26,Male,117125,9th,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,120
+36,Female,348022,10th,Private,Married-civ-spouse,Married,Wife,White,<=50K,Emphysema,Respiratory disease,121
+62,Male,270092,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,121
+43,Male,180609,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,121
+43,Male,174575,Bachelors,Private,Divorced,Unmarried,Not-in-family,White,>50K,Dementia,Mental disorder,122
+22,Male,410439,HS-grad,Private,Married-spouse-absent,Married,Not-in-family,White,<=50K,Emphysema,Respiratory disease,122
+28,Male,92262,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,122
+56,Male,183081,Some-college,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,123
+22,Female,362589,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,123
+57,Female,212448,Bachelors,Private,Divorced,Unmarried,Not-in-family,White,>50K,Uremia,Excretory_system disorder,123
+39,Female,481060,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Gastritis,Digestive disorder,124
+26,Female,185885,Some-college,Federal-gov,Never-married,Unmarried,Unmarried,White,<=50K,Insomnia,Mental disorder,124
+17,Male,89821,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,124
+40,Male,184018,Assoc-voc,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,125
+45,Male,256649,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Jaundice,Digestive disorder,125
+44,Male,160323,HS-grad,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Gastritis,Digestive disorder,125
+20,Female,350845,Some-college,Local-gov,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,126
+33,Female,267404,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Nephritis,Excretory_system disorder,126
+23,Male,35633,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,126
+46,Male,80914,Masters,Self-emp-not-inc,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,127
+38,Male,172927,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,127
+54,Male,174319,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,127
+46,Female,214955,5th-6th,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,128
+25,Male,344991,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,128
+46,Female,108699,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,128
+36,Female,117312,Some-college,Local-gov,Married-civ-spouse,Married,Wife,White,<=50K,Schizophernia,Mental disorder,129
+23,Female,396099,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,129
+29,Male,134152,HS-grad,Private,Separated,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,129
+44,Female,162028,Some-college,Private,Married-civ-spouse,Married,Wife,White,>50K,Emphysema,Respiratory disease,130
+19,Female,25429,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Diarrhoea,Digestive disorder,130
+19,Female,232392,HS-grad,Private,Never-married,Unmarried,Other-relative,White,<=50K,Schizophernia,Mental disorder,130
+35,Female,220098,HS-grad,Private,Married-civ-spouse,Married,Wife,White,>50K,Pneumonia,Respiratory disease,131
+27,Male,301302,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,131
+46,Male,277946,Assoc-acdm,Self-emp-not-inc,Separated,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,131
+34,Male,98101,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,132
+34,Female,196164,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,132
+44,Male,115562,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,132
+45,Female,96975,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Asthama,Respiratory disease,133
+20,Female,137300,HS-grad,?,Never-married,Unmarried,Other-relative,White,<=50K,Nephritis,Excretory_system disorder,133
+25,Male,86872,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,133
+52,Male,132178,Bachelors,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,134
+20,Male,416103,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,134
+28,Female,108574,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,134
+50,Male,288353,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,135
+34,Female,227689,Assoc-voc,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,135
+28,Male,166481,7th-8th,Private,Married-civ-spouse,Married,Husband,Other,<=50K,Emphysema,Respiratory disease,135
+41,Male,445382,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,136
+28,Male,110145,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,136
+46,Male,317253,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,136
+28,Female,123147,Some-college,?,Married-civ-spouse,Married,Wife,White,>50K,Gastritis,Digestive disorder,137
+32,Male,364657,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,137
+41,Female,42346,Some-college,Local-gov,Divorced,Unmarried,Not-in-family,Black,<=50K,Asthama,Respiratory disease,137
+24,Female,241951,HS-grad,Private,Never-married,Unmarried,Unmarried,Black,<=50K,Cardiomyopathy,Circulatory_system disorder,138
+33,Female,118500,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Dementia,Mental disorder,138
+46,Male,188386,Doctorate,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,138
+31,Male,1033222,Some-college,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,139
+35,Male,92440,12th,Private,Divorced,Unmarried,Not-in-family,White,>50K,Diarrhoea,Digestive disorder,139
+52,Male,190762,1st-4th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,139
+30,Female,426017,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Asthama,Respiratory disease,140
+34,Male,243867,11th,Local-gov,Separated,Unmarried,Not-in-family,Black,<=50K,Asthama,Respiratory disease,140
+34,Female,240283,HS-grad,State-gov,Divorced,Unmarried,Unmarried,White,<=50K,Jaundice,Digestive disorder,140
+20,Male,61777,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,141
+17,Male,175024,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,141
+32,Female,92003,Bachelors,State-gov,Married-civ-spouse,Married,Wife,White,>50K,Asthama,Respiratory disease,141
+29,Male,188401,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,142
+33,Female,228528,10th,Private,Never-married,Unmarried,Unmarried,White,<=50K,Pneumonia,Respiratory disease,142
+25,Male,133373,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,142
+36,Male,255191,Masters,Federal-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,143
+23,Male,204653,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,143
+63,Male,222289,HS-grad,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,143
+47,Male,287480,Masters,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,144
+80,Male,107762,HS-grad,?,Widowed,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,144
+17,Male,202521,11th,?,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,144
+40,Female,204116,Bachelors,Self-emp-not-inc,Married-spouse-absent,Married,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,145
+30,Female,29662,Assoc-acdm,Private,Married-civ-spouse,Married,Wife,White,>50K,Cardiomyopathy,Circulatory_system disorder,145
+27,Male,116358,Some-college,Private,Never-married,Unmarried,Own-child,Asian-Pac-Islander,<=50K,Angina Pectoris,Circulatory_system disorder,145
+33,Male,208405,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,146
+34,Male,284843,HS-grad,Local-gov,Never-married,Unmarried,Not-in-family,Black,<=50K,Insomnia,Mental disorder,146
+34,Female,117018,Some-college,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,146
+23,Male,81281,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,147
+42,Female,340148,Some-college,Local-gov,Married-civ-spouse,Married,Wife,White,<=50K,Pneumonia,Respiratory disease,147
+29,Male,363425,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,147
+45,Female,45857,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,148
+24,Male,191073,HS-grad,Federal-gov,Never-married,Unmarried,Own-child,White,<=50K,Dementia,Mental disorder,148
+44,Male,116632,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,148
+27,Male,405855,9th,Private,Never-married,Unmarried,Other-relative,White,<=50K,Diarrhoea,Digestive disorder,149
+20,Male,298227,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,149
+44,Female,290521,HS-grad,Private,Widowed,Unmarried,Unmarried,Black,<=50K,Angina Pectoris,Circulatory_system disorder,149
+51,Male,56915,HS-grad,Private,Married-civ-spouse,Married,Husband,Amer-Indian-Eskimo,<=50K,Diarrhoea,Digestive disorder,150
+20,Male,146538,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,150
+17,Female,258872,11th,?,Never-married,Unmarried,Own-child,White,<=50K,Gastritis,Digestive disorder,150
+19,Female,206399,HS-grad,Private,Never-married,Unmarried,Own-child,Black,<=50K,Schizophernia,Mental disorder,151
+45,Male,197332,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,151
+60,Male,245062,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,151
+42,Male,197583,Assoc-acdm,Private,Married-civ-spouse,Married,Husband,Black,>50K,Insomnia,Mental disorder,152
+44,Female,234885,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Wife,White,>50K,Insomnia,Mental disorder,152
+40,Male,72887,Assoc-voc,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Schizophernia,Mental disorder,152
+30,Female,180374,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Cardiac arrest,Circulatory_system disorder,153
+38,Male,351299,Some-college,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Pneumonia,Respiratory disease,153
+23,Male,54012,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,153
+32,Male,115745,Some-college,?,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,154
+44,Male,116632,Assoc-acdm,Private,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,154
+54,Male,288825,HS-grad,Local-gov,Married-civ-spouse,Married,Husband,Black,<=50K,Pneumonia,Respiratory disease,154
+32,Male,132601,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,155
+50,Male,193374,1st-4th,Private,Married-spouse-absent,Married,Unmarried,White,<=50K,Schizophernia,Mental disorder,155
+24,Female,170070,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,155
+37,Female,126708,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Uremia,Excretory_system disorder,156
+52,Male,35598,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Oedema,Excretory_system disorder,156
+38,Male,33983,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,156
+49,Male,192776,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,157
+30,Female,118551,Bachelors,Private,Married-civ-spouse,Married,Wife,White,>50K,Cardiomyopathy,Circulatory_system disorder,157
+60,Male,201965,Some-college,Private,Never-married,Unmarried,Unmarried,White,>50K,Cardiomyopathy,Circulatory_system disorder,157
+22,Male,139883,Some-college,?,Never-married,Unmarried,Own-child,White,<=50K,Pneumonia,Respiratory disease,158
+35,Male,285020,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,158
+30,Male,303990,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,158
+67,Female,49401,Assoc-voc,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,159
+46,Female,279196,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,159
+17,Male,211870,9th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,159
+22,Male,281432,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,160
+27,Male,161155,10th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,160
+23,Female,197904,HS-grad,Private,Never-married,Unmarried,Unmarried,White,<=50K,Insomnia,Mental disorder,160
+33,Male,111746,Assoc-acdm,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,161
+43,Male,170721,Some-college,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,161
+28,Male,70100,Bachelors,State-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,161
+41,Female,193626,HS-grad,Private,Married-spouse-absent,Married,Unmarried,White,<=50K,Gastritis,Digestive disorder,162
+52,Male,271749,12th,?,Never-married,Unmarried,Other-relative,Black,<=50K,Angina Pectoris,Circulatory_system disorder,162
+25,Female,189775,Some-college,Private,Married-spouse-absent,Married,Own-child,Black,<=50K,Angina Pectoris,Circulatory_system disorder,162
+63,Male,401531,1st-4th,?,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,163
+59,Male,286967,HS-grad,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,163
+45,Female,164427,Bachelors,Local-gov,Divorced,Unmarried,Unmarried,White,<=50K,Dementia,Mental disorder,163
+38,Male,91039,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,164
+40,Female,347934,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,164
+46,Male,371373,HS-grad,Federal-gov,Divorced,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,164
+35,Female,32220,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,165
+34,Female,187251,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Pneumonia,Respiratory disease,165
+33,Male,178107,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Dementia,Mental disorder,165
+41,Female,343121,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Gastritis,Digestive disorder,166
+20,Male,262749,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,166
+23,Male,403107,5th-6th,Private,Never-married,Unmarried,Own-child,White,<=50K,Nephritis,Excretory_system disorder,166
+26,Female,64293,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,167
+72,Male,303588,HS-grad,?,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,167
+23,Male,324960,HS-grad,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,167
+62,Male,114060,HS-grad,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,168
+52,Male,48925,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,168
+58,Female,180980,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Oedema,Excretory_system disorder,168
+25,Female,181054,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,169
+24,Male,388093,Bachelors,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Cardiac arrest,Circulatory_system disorder,169
+19,Male,249609,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,169
+43,Male,112131,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,170
+47,Female,543162,HS-grad,Local-gov,Separated,Unmarried,Unmarried,Black,<=50K,Oedema,Excretory_system disorder,170
+39,Female,91996,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Jaundice,Digestive disorder,170
+49,Male,141944,Assoc-voc,Private,Married-spouse-absent,Married,Unmarried,White,<=50K,Cardiac arrest,Circulatory_system disorder,171
+53,Female,251804,5th-6th,?,Widowed,Unmarried,Unmarried,Black,<=50K,Cardiac arrest,Circulatory_system disorder,171
+32,Male,37070,Assoc-voc,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,171
+34,Male,337587,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,172
+28,Male,189346,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,172
+57,Female,222216,Assoc-voc,?,Widowed,Unmarried,Unmarried,White,<=50K,Jaundice,Digestive disorder,172
+25,Female,267044,Some-college,Private,Never-married,Unmarried,Not-in-family,Amer-Indian-Eskimo,<=50K,Schizophernia,Mental disorder,173
+20,Male,214635,Some-college,?,Never-married,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,173
+21,Female,204226,Some-college,?,Never-married,Unmarried,Unmarried,White,<=50K,Nephritis,Excretory_system disorder,173
+34,Male,108116,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,174
+38,Male,99146,Bachelors,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,174
+50,Male,196232,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,174
+24,Male,248344,Some-college,Local-gov,Divorced,Unmarried,Not-in-family,Black,<=50K,Dementia,Mental disorder,175
+37,Male,186035,Some-college,Local-gov,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,175
+44,Male,177905,Some-college,Private,Divorced,Unmarried,Unmarried,White,>50K,Pneumonia,Respiratory disease,175
+28,Female,85812,Some-college,Private,Married-civ-spouse,Married,Wife,White,<=50K,Uremia,Excretory_system disorder,176
+42,Male,221172,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,176
+74,Female,99183,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,176
+38,Male,190387,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,177
+44,Male,202692,Masters,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,177
+44,Female,109339,11th,Private,Divorced,Unmarried,Unmarried,Other,<=50K,Gastritis,Digestive disorder,177
+26,Male,108658,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,178
+36,Male,197202,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Diarrhoea,Digestive disorder,178
+41,Female,101739,Assoc-acdm,Private,Married-civ-spouse,Married,Wife,White,>50K,Emphysema,Respiratory disease,178
+67,Male,231559,Prof-school,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,179
+39,Male,207853,12th,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,179
+57,Female,190942,1st-4th,Private,Widowed,Unmarried,Not-in-family,Black,<=50K,Cardiac arrest,Circulatory_system disorder,179
+29,Male,102345,Assoc-voc,Private,Separated,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,180
+31,Female,41493,Bachelors,Self-emp-inc,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,180
+34,Female,190027,HS-grad,?,Never-married,Unmarried,Unmarried,Black,<=50K,Diarrhoea,Digestive disorder,180
+44,Male,210525,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,181
+29,Male,133937,Doctorate,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,181
+30,Female,237903,Some-college,Private,Never-married,Unmarried,Unmarried,White,<=50K,Cardiac arrest,Circulatory_system disorder,181
+27,Male,163862,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,182
+27,Male,201872,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,182
+32,Female,84179,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,182
+58,Female,51662,10th,Private,Married-civ-spouse,Married,Wife,White,<=50K,Jaundice,Digestive disorder,183
+35,Male,233327,Some-college,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,183
+21,Male,259510,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,183
+28,Male,184831,Some-college,Private,Never-married,Unmarried,Unmarried,White,<=50K,Nephritis,Excretory_system disorder,184
+46,Male,245724,Some-college,Self-emp-not-inc,Divorced,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,184
+36,Female,27053,HS-grad,Self-emp-not-inc,Separated,Unmarried,Unmarried,White,<=50K,Cardiac arrest,Circulatory_system disorder,184
+72,Female,205343,11th,Private,Widowed,Unmarried,Unmarried,White,<=50K,Cardiac arrest,Circulatory_system disorder,185
+35,Female,229328,HS-grad,Private,Married-civ-spouse,Married,Wife,Black,<=50K,Asthama,Respiratory disease,185
+33,Female,319560,Assoc-voc,Federal-gov,Divorced,Unmarried,Unmarried,Black,>50K,Uremia,Excretory_system disorder,185
+69,Female,136218,11th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,186
+35,Male,54576,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,186
+31,Female,323069,HS-grad,Private,Separated,Unmarried,Unmarried,White,<=50K,Schizophernia,Mental disorder,186
+34,Female,148291,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Emphysema,Respiratory disease,187
+30,Male,152453,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,187
+28,Male,114053,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,187
+54,Male,212960,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,188
+47,Male,264052,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,188
+24,Female,82804,HS-grad,Private,Never-married,Unmarried,Unmarried,Black,<=50K,Gastritis,Digestive disorder,188
+52,Male,334273,Bachelors,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,189
+20,Male,27337,HS-grad,Private,Never-married,Unmarried,Own-child,Amer-Indian-Eskimo,<=50K,Cardiac arrest,Circulatory_system disorder,189
+43,Male,188436,Masters,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,189
+45,Female,433665,7th-8th,Private,Separated,Unmarried,Unmarried,White,<=50K,Pneumonia,Respiratory disease,190
+29,Male,110663,HS-grad,Self-emp-not-inc,Separated,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,190
+47,Male,87490,Masters,Private,Divorced,Unmarried,Unmarried,White,<=50K,Emphysema,Respiratory disease,190
+24,Male,354351,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Asthama,Respiratory disease,191
+51,Male,95469,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,191
+17,Male,242718,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Nephritis,Excretory_system disorder,191
+37,Male,22463,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,192
+27,Female,158156,Doctorate,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,192
+29,Male,350162,Bachelors,Private,Married-civ-spouse,Married,Wife,White,>50K,Insomnia,Mental disorder,192
+18,Male,165532,12th,?,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,193
+36,Female,28738,Assoc-acdm,Self-emp-not-inc,Divorced,Unmarried,Unmarried,White,<=50K,Cardiomyopathy,Circulatory_system disorder,193
+58,Female,283635,Bachelors,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,193
+26,Male,86646,Some-college,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,194
+65,Male,195733,Some-college,?,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,194
+57,Male,69884,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,194
+59,Male,199713,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,195
+27,Male,181659,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,195
+31,Male,340939,Bachelors,Self-emp-not-inc,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,195
+21,Female,197747,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,196
+29,Male,34292,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,196
+18,Male,156764,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Gastritis,Digestive disorder,196
+52,Male,25826,10th,Private,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,197
+57,Male,103948,Bachelors,Self-emp-inc,Divorced,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,197
+42,Male,137390,HS-grad,?,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,197
+55,Female,105138,HS-grad,?,Married-civ-spouse,Married,Wife,Asian-Pac-Islander,<=50K,Cardiac arrest,Circulatory_system disorder,198
+60,Male,39352,7th-8th,Private,Never-married,Unmarried,Not-in-family,White,>50K,Angina Pectoris,Circulatory_system disorder,198
+31,Male,168387,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,198
+23,Female,117789,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,199
+27,Male,267147,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Diarrhoea,Digestive disorder,199
+23,Female,99399,Some-college,?,Never-married,Unmarried,Unmarried,Amer-Indian-Eskimo,<=50K,Oedema,Excretory_system disorder,199
+42,Male,214242,Prof-school,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,200
+25,Male,200408,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,200
+49,Female,136455,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,200
+32,Male,239824,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,201
+19,Male,217039,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,201
+60,Female,51290,7th-8th,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,201
+42,Male,175674,9th,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,202
+35,Male,194404,Assoc-acdm,Self-emp-not-inc,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,202
+48,Female,45612,HS-grad,Private,Never-married,Unmarried,Unmarried,Black,<=50K,Pneumonia,Respiratory disease,202
+51,Male,410114,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,203
+29,Male,182521,HS-grad,Private,Never-married,Unmarried,Not-in-family,Amer-Indian-Eskimo,<=50K,Dementia,Mental disorder,203
+36,Male,339772,HS-grad,Local-gov,Separated,Unmarried,Not-in-family,Black,<=50K,Gastritis,Digestive disorder,203
+17,Female,169658,10th,Private,Never-married,Unmarried,Own-child,White,<=50K,Asthama,Respiratory disease,204
+52,Female,200853,Masters,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,204
+24,Male,247564,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,204
+24,Male,249909,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,205
+26,Male,208122,Bachelors,Local-gov,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,205
+27,Female,109881,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,205
+39,Male,207824,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,206
+30,Male,369027,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Dementia,Mental disorder,206
+50,Male,114117,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,206
+52,Male,51048,Bachelors,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,207
+46,Male,102388,Prof-school,Private,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,207
+23,Female,190483,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Asthama,Respiratory disease,207
+45,Female,462440,11th,Private,Widowed,Unmarried,Not-in-family,Black,<=50K,Nephritis,Excretory_system disorder,208
+65,Female,109351,9th,Private,Widowed,Unmarried,Unmarried,Black,<=50K,Insomnia,Mental disorder,208
+29,Male,34383,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,208
+47,Male,241832,9th,Private,Married-spouse-absent,Married,Unmarried,White,<=50K,Dementia,Mental disorder,209
+30,Male,124187,HS-grad,Private,Never-married,Unmarried,Own-child,Black,<=50K,Nephritis,Excretory_system disorder,209
+34,Male,153614,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,209
+38,Male,267556,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,210
+33,Male,205469,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,210
+49,Male,268090,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,210
+47,Female,165039,Some-college,Self-emp-not-inc,Never-married,Unmarried,Unmarried,Black,<=50K,Nephritis,Excretory_system disorder,211
+49,Female,120451,10th,Local-gov,Separated,Unmarried,Unmarried,Black,<=50K,Gastritis,Digestive disorder,211
+43,Male,154374,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,211
+30,Female,103649,Bachelors,Private,Married-civ-spouse,Married,Wife,Black,>50K,Pneumonia,Respiratory disease,212
+58,Male,35723,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,212
+19,Female,262601,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,212
+21,Male,226181,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,213
+33,Male,175697,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,213
+47,Male,248145,5th-6th,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,213
+52,Male,289436,Doctorate,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,214
+26,Male,75654,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,214
+60,Male,199378,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,214
+21,Male,160968,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,215
+36,Male,188563,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,215
+31,Male,55849,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,215
+50,Male,195322,Doctorate,Self-emp-inc,Separated,Unmarried,Not-in-family,White,>50K,Diarrhoea,Digestive disorder,216
+31,Female,402089,HS-grad,Local-gov,Divorced,Unmarried,Unmarried,White,<=50K,Nephritis,Excretory_system disorder,216
+71,Male,78277,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,216
+58,Male,158611,HS-grad,?,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,217
+30,Male,169496,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Uremia,Excretory_system disorder,217
+20,Male,130959,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Gastritis,Digestive disorder,217
+24,Male,556660,HS-grad,Private,Never-married,Unmarried,Other-relative,White,<=50K,Diarrhoea,Digestive disorder,218
+35,Male,292472,Doctorate,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Emphysema,Respiratory disease,218
+38,Female,143774,Some-college,State-gov,Separated,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,218
+27,Female,288341,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,219
+29,Female,71592,Some-college,State-gov,Never-married,Unmarried,Unmarried,Asian-Pac-Islander,<=50K,Nephritis,Excretory_system disorder,219
+70,Female,167358,9th,?,Widowed,Unmarried,Unmarried,White,<=50K,Asthama,Respiratory disease,219
+34,Male,106742,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,220
+44,Male,219288,7th-8th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,220
+43,Male,174524,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,220
+44,Male,335183,12th,Self-emp-not-inc,Married-civ-spouse,Married,Husband,Black,>50K,Diarrhoea,Digestive disorder,221
+35,Male,261293,Masters,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,221
+27,Male,111900,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,221
+43,Male,194360,Masters,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,222
+20,Female,81145,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,222
+42,Female,341204,Assoc-acdm,Private,Divorced,Unmarried,Unmarried,White,>50K,Cardiomyopathy,Circulatory_system disorder,222
+27,Male,249362,Some-college,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,223
+42,Male,247019,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,>50K,Cardiac arrest,Circulatory_system disorder,223
+20,Female,114746,11th,?,Married-spouse-absent,Married,Own-child,Asian-Pac-Islander,<=50K,Asthama,Respiratory disease,223
+24,Male,172146,9th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,224
+48,Male,110457,Some-college,Federal-gov,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,224
+17,Female,80077,11th,?,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,224
+17,Male,368700,11th,Self-emp-not-inc,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,225
+33,Male,182556,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,225
+50,Male,219420,HS-grad,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,225
+22,Female,240817,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,226
+17,Male,102726,12th,Private,Never-married,Unmarried,Own-child,White,<=50K,Insomnia,Mental disorder,226
+32,Male,226267,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,226
+31,Male,125457,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,227
+58,Male,204021,HS-grad,Self-emp-not-inc,Widowed,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,227
+29,Male,92262,HS-grad,Local-gov,Never-married,Unmarried,Own-child,White,<=50K,Schizophernia,Mental disorder,227
+37,Male,161141,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,228
+34,Male,190290,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,228
+23,Male,430828,Some-college,Local-gov,Separated,Unmarried,Unmarried,Black,<=50K,Nephritis,Excretory_system disorder,228
+18,Female,59342,11th,State-gov,Never-married,Unmarried,Own-child,White,<=50K,Nephritis,Excretory_system disorder,229
+34,Female,136721,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,229
+66,Male,149422,7th-8th,?,Never-married,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,229
+45,Female,86644,Bachelors,Local-gov,Married-civ-spouse,Married,Wife,White,<=50K,Schizophernia,Mental disorder,230
+41,Male,195124,Masters,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,230
+26,Male,167350,HS-grad,Private,Never-married,Unmarried,Other-relative,White,<=50K,Oedema,Excretory_system disorder,230
+54,Male,113000,Some-college,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,231
+24,Female,140027,Some-college,Private,Never-married,Unmarried,Own-child,Black,<=50K,Cardiac arrest,Circulatory_system disorder,231
+42,Male,262425,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,231
+20,Male,316702,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,232
+23,Female,335453,Bachelors,State-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,232
+25,Male,202480,Assoc-acdm,?,Never-married,Unmarried,Other-relative,White,<=50K,Dementia,Mental disorder,232
+35,Male,203628,Masters,Private,Never-married,Unmarried,Not-in-family,White,>50K,Insomnia,Mental disorder,233
+31,Male,118710,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,233
+30,Female,189620,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Dementia,Mental disorder,233
+19,Female,475028,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,234
+36,Male,110866,Bachelors,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,234
+31,Female,243605,Bachelors,Private,Widowed,Unmarried,Unmarried,White,<=50K,Pneumonia,Respiratory disease,234
+21,Male,163870,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Gastritis,Digestive disorder,235
+31,Male,80145,Some-college,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,235
+46,Female,295566,Doctorate,Private,Divorced,Unmarried,Unmarried,White,>50K,Dementia,Mental disorder,235
+44,Female,63042,Bachelors,Private,Divorced,Unmarried,Own-child,White,>50K,Jaundice,Digestive disorder,236
+40,Male,229148,12th,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Insomnia,Mental disorder,236
+45,Male,242552,Some-college,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Cardiac arrest,Circulatory_system disorder,236
+60,Male,177665,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,237
+18,Male,208103,11th,Private,Never-married,Unmarried,Other-relative,White,<=50K,Dementia,Mental disorder,237
+28,Male,296450,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,237
+36,Female,70282,Some-college,Private,Divorced,Unmarried,Unmarried,Black,<=50K,Gastritis,Digestive disorder,238
+36,Male,271767,Bachelors,Private,Separated,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,238
+40,Male,144995,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,238
+36,Female,382635,Bachelors,Local-gov,Divorced,Unmarried,Unmarried,White,<=50K,Dementia,Mental disorder,239
+31,Female,295697,HS-grad,Private,Separated,Unmarried,Unmarried,Black,<=50K,Emphysema,Respiratory disease,239
+33,Male,194141,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,239
+19,Female,378418,HS-grad,State-gov,Never-married,Unmarried,Own-child,White,<=50K,Gastritis,Digestive disorder,240
+22,Female,214399,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,240
+34,Male,217460,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,240
+33,Male,182556,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,241
+41,Male,125831,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,241
+29,Male,271328,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,241
+50,Male,50459,HS-grad,Local-gov,Married-civ-spouse,Married,Husband,White,>50K,Uremia,Excretory_system disorder,242
+42,Male,162140,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Uremia,Excretory_system disorder,242
+43,Male,177937,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,>50K,Pneumonia,Respiratory disease,242
+44,Female,111502,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Schizophernia,Mental disorder,243
+20,Female,299047,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,243
+31,Male,223212,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,243
+65,Male,118474,11th,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,244
+23,Female,352139,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,244
+55,Female,173093,Some-college,Private,Divorced,Unmarried,Not-in-family,Asian-Pac-Islander,<=50K,Insomnia,Mental disorder,244
+26,Male,181655,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,245
+25,Female,332702,Assoc-voc,Private,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,245
+45,Female,51164,Some-college,?,Married-civ-spouse,Married,Wife,Black,<=50K,Angina Pectoris,Circulatory_system disorder,245
+35,Male,234901,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,246
+36,Female,131414,Some-college,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Schizophernia,Mental disorder,246
+43,Male,260960,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,246
+56,Female,156052,HS-grad,Private,Widowed,Unmarried,Unmarried,Black,<=50K,Pneumonia,Respiratory disease,247
+42,Male,279914,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,247
+19,Female,192453,Some-college,Private,Never-married,Unmarried,Other-relative,White,<=50K,Uremia,Excretory_system disorder,247
+55,Male,200939,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,248
+42,Female,151408,Masters,Private,Never-married,Unmarried,Not-in-family,White,>50K,Diarrhoea,Digestive disorder,248
+26,Male,112847,Assoc-voc,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,248
+17,Male,316929,12th,Private,Never-married,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,249
+42,Female,126319,Bachelors,Local-gov,Married-civ-spouse,Married,Wife,White,>50K,Angina Pectoris,Circulatory_system disorder,249
+55,Male,197422,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,249
+32,Female,267736,Some-college,Private,Never-married,Unmarried,Own-child,Black,<=50K,Diarrhoea,Digestive disorder,250
+29,Male,267034,11th,Private,Never-married,Unmarried,Own-child,Black,<=50K,Gastritis,Digestive disorder,250
+46,Male,193047,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,250
+29,Male,356089,Bachelors,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,251
+22,Male,223515,Bachelors,Private,Never-married,Unmarried,Unmarried,White,<=50K,Emphysema,Respiratory disease,251
+58,Male,87510,10th,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,251
+23,Male,145111,HS-grad,Private,Never-married,Unmarried,Unmarried,White,<=50K,Diarrhoea,Digestive disorder,252
+39,Male,48093,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,252
+27,Male,31757,Assoc-voc,Private,Never-married,Unmarried,Own-child,White,<=50K,Diarrhoea,Digestive disorder,252
+54,Male,285854,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,253
+33,Female,120064,Bachelors,Local-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,253
+46,Female,167381,HS-grad,Federal-gov,Married-civ-spouse,Married,Wife,White,>50K,Nephritis,Excretory_system disorder,253
+37,Male,103408,HS-grad,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Emphysema,Respiratory disease,254
+36,Female,101460,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,254
+59,Female,420537,HS-grad,Local-gov,Married-civ-spouse,Married,Wife,White,>50K,Nephritis,Excretory_system disorder,254
+34,Male,119411,HS-grad,Local-gov,Divorced,Unmarried,Unmarried,White,<=50K,Nephritis,Excretory_system disorder,255
+53,Male,128272,Doctorate,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,255
+51,Male,386773,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,>50K,Jaundice,Digestive disorder,255
+32,Female,283268,10th,Private,Separated,Unmarried,Unmarried,White,<=50K,Pneumonia,Respiratory disease,256
+31,Male,301526,Some-college,State-gov,Married-spouse-absent,Married,Other-relative,White,<=50K,Jaundice,Digestive disorder,256
+22,Female,151790,Some-college,Private,Married-civ-spouse,Married,Wife,White,<=50K,Emphysema,Respiratory disease,256
+47,Female,106252,Bachelors,Self-emp-not-inc,Divorced,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,257
+32,Male,188557,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,257
+26,Female,171114,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,257
+37,Male,327323,5th-6th,Private,Separated,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,258
+31,Male,244147,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Cardiomyopathy,Circulatory_system disorder,258
+37,Female,280282,Assoc-voc,Private,Married-civ-spouse,Married,Wife,White,>50K,Oedema,Excretory_system disorder,258
+55,Male,116442,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,259
+23,Male,282579,Assoc-voc,Local-gov,Divorced,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,259
+36,Female,51838,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Emphysema,Respiratory disease,259
+34,Male,73585,Masters,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiomyopathy,Circulatory_system disorder,260
+43,Male,226902,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,260
+54,Male,279129,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,260
+43,Male,146908,Some-college,State-gov,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,261
+28,Female,196690,Assoc-voc,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,261
+40,Male,130760,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,261
+41,Male,49572,Some-college,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Asthama,Respiratory disease,262
+40,Female,237601,Bachelors,Private,Never-married,Unmarried,Not-in-family,Other,>50K,Cardiac arrest,Circulatory_system disorder,262
+42,Female,169628,Some-college,Private,Divorced,Unmarried,Not-in-family,Black,<=50K,Cardiac arrest,Circulatory_system disorder,262
+61,Male,36671,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,263
+18,Male,231193,12th,Private,Never-married,Unmarried,Own-child,White,<=50K,Dementia,Mental disorder,263
+59,Male,192130,HS-grad,?,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,263
+21,Female,149704,HS-grad,?,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,264
+48,Male,102102,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,264
+41,Male,32185,Bachelors,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,264
+18,Male,196061,Some-college,?,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,265
+23,Female,211046,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,265
+60,Male,31577,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,265
+22,Male,162343,Some-college,Private,Never-married,Unmarried,Other-relative,Black,<=50K,Gastritis,Digestive disorder,266
+61,Male,128831,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,266
+25,Male,316688,HS-grad,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Jaundice,Digestive disorder,266
+46,Male,90758,Masters,Private,Never-married,Unmarried,Not-in-family,White,>50K,Pneumonia,Respiratory disease,267
+43,Male,274363,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,267
+43,Male,154538,Assoc-acdm,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,267
+24,Male,106085,HS-grad,Private,Never-married,Unmarried,Own-child,Black,<=50K,Jaundice,Digestive disorder,268
+68,Male,315859,11th,Self-emp-not-inc,Never-married,Unmarried,Unmarried,White,<=50K,Cardiac arrest,Circulatory_system disorder,268
+31,Female,51471,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Angina Pectoris,Circulatory_system disorder,268
+17,Female,193830,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Gastritis,Digestive disorder,269
+32,Male,231043,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,269
+50,Male,23780,Masters,?,Married-spouse-absent,Married,Other-relative,White,<=50K,Jaundice,Digestive disorder,269
+33,Male,169879,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Dementia,Mental disorder,270
+64,Male,270333,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,270
+20,Male,138768,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,270
+30,Female,191571,HS-grad,Private,Separated,Unmarried,Own-child,White,<=50K,Diarrhoea,Digestive disorder,271
+22,Male,219941,Some-college,?,Never-married,Unmarried,Own-child,Black,<=50K,Pneumonia,Respiratory disease,271
+43,Male,94113,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,271
+22,Male,137510,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,272
+17,Male,32607,10th,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,272
+47,Female,93208,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Wife,White,<=50K,Diarrhoea,Digestive disorder,272
+41,Female,254440,Assoc-voc,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,273
+56,Male,186556,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,273
+64,Male,169871,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,273
+47,Male,191277,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Uremia,Excretory_system disorder,274
+48,Male,167159,Assoc-voc,Private,Never-married,Unmarried,Unmarried,White,<=50K,Pneumonia,Respiratory disease,274
+31,Female,171871,Masters,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,274
+29,Male,154411,Assoc-voc,Private,Never-married,Unmarried,Own-child,White,<=50K,Pneumonia,Respiratory disease,275
+30,Female,129227,HS-grad,Private,Widowed,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,275
+32,Male,110331,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,275
+57,Male,34269,HS-grad,Private,Widowed,Unmarried,Unmarried,White,>50K,Gastritis,Digestive disorder,276
+62,Female,174355,HS-grad,Private,Widowed,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,276
+39,Female,680390,HS-grad,Private,Separated,Unmarried,Unmarried,White,<=50K,Dementia,Mental disorder,276
+43,Male,233130,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,277
+24,Male,165474,Bachelors,Self-emp-inc,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,277
+42,Male,257780,11th,?,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,277
+53,Female,194259,Some-college,Private,Married-civ-spouse,Married,Wife,White,>50K,Insomnia,Mental disorder,278
+26,Male,280093,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,278
+73,Male,177387,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,278
+72,Female,28929,11th,?,Widowed,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,279
+55,Male,105304,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,279
+25,Male,499233,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,279
+41,Female,180572,Bachelors,Private,Divorced,Unmarried,Not-in-family,White,>50K,Cardiac arrest,Circulatory_system disorder,280
+24,Male,321435,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,280
+63,Male,86108,HS-grad,Private,Widowed,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,280
+17,Male,198124,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,281
+35,Male,135162,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,281
+51,Male,146813,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,281
+62,Female,291175,Bachelors,Local-gov,Widowed,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,282
+55,Male,387569,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiac arrest,Circulatory_system disorder,282
+43,Male,102895,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,282
+40,Female,33274,HS-grad,Local-gov,Divorced,Unmarried,Not-in-family,White,<=50K,Nephritis,Excretory_system disorder,283
+37,Male,86551,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,283
+39,Male,138192,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,283
+31,Male,118966,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,284
+61,Female,99784,Masters,Private,Widowed,Unmarried,Not-in-family,White,>50K,Angina Pectoris,Circulatory_system disorder,284
+26,Female,90980,Assoc-voc,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,284
+46,Male,177407,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,285
+26,Female,96467,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Jaundice,Digestive disorder,285
+48,Male,327886,Doctorate,State-gov,Divorced,Unmarried,Own-child,White,>50K,Uremia,Excretory_system disorder,285
+34,Male,111567,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Cardiac arrest,Circulatory_system disorder,286
+34,Female,166545,HS-grad,Local-gov,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,286
+59,Male,142182,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,286
+34,Female,188798,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Asthama,Respiratory disease,287
+49,Female,38563,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,>50K,Cardiomyopathy,Circulatory_system disorder,287
+18,Female,216284,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,287
+43,Male,191547,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,288
+48,Male,285335,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Emphysema,Respiratory disease,288
+28,Male,142712,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,288
+33,Male,80945,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Schizophernia,Mental disorder,289
+24,Female,309055,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,289
+21,Male,62339,10th,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,289
+17,Male,368700,11th,Private,Never-married,Unmarried,Own-child,White,<=50K,Oedema,Excretory_system disorder,290
+39,Male,176186,Some-college,Private,Married-civ-spouse,Married,Husband,White,>50K,Uremia,Excretory_system disorder,290
+29,Male,266855,Bachelors,Self-emp-not-inc,Separated,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,290
+44,Male,48087,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,291
+24,Male,121313,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Pneumonia,Respiratory disease,291
+71,Male,143437,Masters,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,291
+51,Male,160724,Bachelors,Self-emp-not-inc,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Cardiomyopathy,Circulatory_system disorder,292
+55,Male,282753,5th-6th,Private,Divorced,Unmarried,Unmarried,Black,<=50K,Jaundice,Digestive disorder,292
+41,Male,194636,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,292
+23,Female,153044,HS-grad,Private,Never-married,Unmarried,Unmarried,Black,<=50K,Cardiomyopathy,Circulatory_system disorder,293
+38,Female,411797,Assoc-voc,Private,Divorced,Unmarried,Unmarried,White,<=50K,Schizophernia,Mental disorder,293
+39,Male,117683,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,293
+19,Female,376540,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,294
+49,Female,72393,9th,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,294
+32,Male,270335,Bachelors,Private,Married-civ-spouse,Married,Other-relative,White,>50K,Asthama,Respiratory disease,294
+27,Male,96226,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,295
+38,Male,95336,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,295
+33,Female,258498,Some-college,Private,Married-civ-spouse,Married,Wife,White,<=50K,Insomnia,Mental disorder,295
+63,Male,149698,Some-college,?,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,296
+23,Male,205865,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Pneumonia,Respiratory disease,296
+33,Male,155781,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,296
+54,Male,406468,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,Black,<=50K,Jaundice,Digestive disorder,297
+29,Female,177119,Assoc-voc,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,297
+48,Female,144397,Some-college,?,Divorced,Unmarried,Unmarried,Black,<=50K,Jaundice,Digestive disorder,297
+35,Male,372525,Bachelors,Self-emp-not-inc,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,298
+28,Female,164170,Assoc-voc,Private,Married-civ-spouse,Married,Wife,Asian-Pac-Islander,<=50K,Angina Pectoris,Circulatory_system disorder,298
+37,Male,183800,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,298
+42,Male,177307,Prof-school,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,299
+40,Male,170108,Masters,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,299
+47,Male,341995,Some-college,Private,Divorced,Unmarried,Own-child,White,<=50K,Dementia,Mental disorder,299
+22,Female,226508,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Emphysema,Respiratory disease,300
+30,Male,87418,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Nephritis,Excretory_system disorder,300
+28,Male,109165,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,300
+63,Male,28856,7th-8th,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,301
+51,Male,175897,9th,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,301
+22,Female,99697,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Dementia,Mental disorder,301
+27,Male,90270,Assoc-acdm,?,Married-civ-spouse,Married,Own-child,Amer-Indian-Eskimo,<=50K,Cardiac arrest,Circulatory_system disorder,302
+35,Male,152375,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,302
+46,Female,171550,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,302
+37,Male,211154,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,303
+24,Male,202570,Bachelors,Private,Never-married,Unmarried,Own-child,Black,<=50K,Cardiac arrest,Circulatory_system disorder,303
+37,Male,168496,HS-grad,Self-emp-not-inc,Divorced,Unmarried,Own-child,White,<=50K,Cardiomyopathy,Circulatory_system disorder,303
+53,Male,68898,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,304
+27,Male,93235,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,304
+38,Male,278924,Some-college,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Uremia,Excretory_system disorder,304
+53,Male,311020,10th,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,305
+34,Male,175878,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,305
+23,Male,543028,HS-grad,Private,Never-married,Unmarried,Own-child,Black,<=50K,Gastritis,Digestive disorder,305
+39,Male,202027,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Uremia,Excretory_system disorder,306
+43,Female,158926,Masters,Private,Married-civ-spouse,Married,Wife,Asian-Pac-Islander,<=50K,Oedema,Excretory_system disorder,306
+67,Male,76860,HS-grad,Self-emp-inc,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Jaundice,Digestive disorder,306
+81,Male,136063,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Pneumonia,Respiratory disease,307
+21,Male,186648,Some-college,Private,Never-married,Unmarried,Own-child,White,<=50K,Angina Pectoris,Circulatory_system disorder,307
+23,Male,257509,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,307
+25,Male,98155,Some-college,Private,Never-married,Unmarried,Unmarried,White,<=50K,Nephritis,Excretory_system disorder,308
+42,Female,274198,5th-6th,Private,Married-civ-spouse,Married,Wife,White,<=50K,Jaundice,Digestive disorder,308
+38,Female,97083,Some-college,Private,Married-civ-spouse,Married,Wife,Black,<=50K,Insomnia,Mental disorder,308
+64,Male,29825,HS-grad,?,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,309
+32,Male,262153,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,309
+37,Male,214738,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,309
+51,Male,138022,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,310
+22,Female,91842,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,310
+33,Female,373662,1st-4th,Private,Married-spouse-absent,Married,Not-in-family,White,<=50K,Emphysema,Respiratory disease,310
+42,Male,162003,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,311
+19,Female,52114,Some-college,?,Never-married,Unmarried,Own-child,White,<=50K,Dementia,Mental disorder,311
+51,Male,241843,Preschool,Local-gov,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,311
+23,Female,375871,HS-grad,Private,Married-civ-spouse,Married,Wife,White,<=50K,Schizophernia,Mental disorder,312
+37,Male,186934,11th,Private,Married-civ-spouse,Married,Husband,White,>50K,Emphysema,Respiratory disease,312
+37,Male,176900,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,312
+47,Female,21906,Masters,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,313
+41,Male,132222,Prof-school,Private,Married-civ-spouse,Married,Husband,White,>50K,Schizophernia,Mental disorder,313
+33,Male,143653,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,313
+31,Male,111567,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,>50K,Insomnia,Mental disorder,314
+31,Female,78602,Assoc-acdm,Private,Divorced,Unmarried,Unmarried,Amer-Indian-Eskimo,<=50K,Asthama,Respiratory disease,314
+35,Male,465507,HS-grad,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Schizophernia,Mental disorder,314
+38,Male,196373,HS-grad,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Asthama,Respiratory disease,315
+18,Female,293227,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,315
+20,Male,241752,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,315
+54,Female,166398,Some-college,Local-gov,Divorced,Unmarried,Unmarried,Black,<=50K,Oedema,Excretory_system disorder,316
+40,Female,184682,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Oedema,Excretory_system disorder,316
+36,Female,108293,Bachelors,Self-emp-inc,Married-civ-spouse,Married,Wife,White,>50K,Jaundice,Digestive disorder,316
+43,Male,250802,Some-college,Private,Divorced,Unmarried,Unmarried,White,<=50K,Dementia,Mental disorder,317
+44,Male,325159,Some-college,Self-emp-not-inc,Divorced,Unmarried,Unmarried,White,<=50K,Schizophernia,Mental disorder,317
+44,Female,174675,HS-grad,State-gov,Married-civ-spouse,Married,Wife,White,>50K,Cardiomyopathy,Circulatory_system disorder,317
+43,Male,227065,Masters,Private,Married-civ-spouse,Married,Husband,White,>50K,Pneumonia,Respiratory disease,318
+51,Female,269080,7th-8th,Private,Widowed,Unmarried,Unmarried,Black,<=50K,Uremia,Excretory_system disorder,318
+18,Female,177722,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,318
+51,Male,133461,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Angina Pectoris,Circulatory_system disorder,319
+41,Male,239683,10th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,319
+44,Male,398473,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,319
+33,Male,298785,10th,Local-gov,Divorced,Unmarried,Not-in-family,White,<=50K,Gastritis,Digestive disorder,320
+33,Male,123424,Bachelors,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,320
+42,Male,176286,Assoc-acdm,Private,Married-civ-spouse,Married,Husband,White,>50K,Dementia,Mental disorder,320
+25,Male,150062,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,321
+32,Female,169240,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Insomnia,Mental disorder,321
+32,Male,288273,Bachelors,Private,Married-civ-spouse,Married,Husband,White,<=50K,Cardiac arrest,Circulatory_system disorder,321
+36,Female,526968,10th,Private,Divorced,Unmarried,Unmarried,White,<=50K,Uremia,Excretory_system disorder,322
+28,Male,57066,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Oedema,Excretory_system disorder,322
+20,Female,323573,HS-grad,Private,Never-married,Unmarried,Own-child,White,<=50K,Diarrhoea,Digestive disorder,322
+35,Male,368825,Some-college,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Dementia,Mental disorder,323
+55,Male,189721,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,323
+48,Male,164966,Bachelors,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Uremia,Excretory_system disorder,323
+36,Female,94954,Assoc-voc,?,Widowed,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,324
+34,Male,202046,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Cardiomyopathy,Circulatory_system disorder,324
+28,Female,161538,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Pneumonia,Respiratory disease,324
+67,Male,105252,Bachelors,Private,Widowed,Unmarried,Not-in-family,White,>50K,Cardiomyopathy,Circulatory_system disorder,325
+37,Male,200153,HS-grad,Private,Married-civ-spouse,Married,Husband,White,<=50K,Uremia,Excretory_system disorder,325
+44,Male,32185,HS-grad,Private,Never-married,Unmarried,Unmarried,White,<=50K,Oedema,Excretory_system disorder,325
+25,Female,178326,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Angina Pectoris,Circulatory_system disorder,326
+21,Female,255957,Some-college,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Schizophernia,Mental disorder,326
+40,Male,188693,Masters,State-gov,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,326
+78,Female,182977,HS-grad,Private,Widowed,Unmarried,Not-in-family,Black,<=50K,Dementia,Mental disorder,327
+34,Male,159929,HS-grad,Private,Divorced,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,327
+49,Female,123207,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Diarrhoea,Digestive disorder,327
+22,Female,284317,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,328
+23,Female,184699,HS-grad,?,Never-married,Unmarried,Unmarried,Black,<=50K,Emphysema,Respiratory disease,328
+60,Male,154474,HS-grad,Self-emp-not-inc,Never-married,Unmarried,Unmarried,White,<=50K,Nephritis,Excretory_system disorder,328
+45,Male,318280,HS-grad,Local-gov,Widowed,Unmarried,Not-in-family,White,>50K,Pneumonia,Respiratory disease,329
+63,Female,254907,Assoc-voc,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Asthama,Respiratory disease,329
+41,Female,349221,HS-grad,Private,Never-married,Unmarried,Own-child,Black,<=50K,Diarrhoea,Digestive disorder,329
+47,Female,335973,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Insomnia,Mental disorder,330
+44,Male,126701,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Gastritis,Digestive disorder,330
+51,Female,122159,Some-college,Private,Widowed,Unmarried,Not-in-family,White,<=50K,Cardiomyopathy,Circulatory_system disorder,330
+46,Male,187370,Bachelors,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,331
+41,Male,194636,Assoc-voc,Private,Married-civ-spouse,Married,Husband,White,<=50K,Nephritis,Excretory_system disorder,331
+50,Male,124793,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Diarrhoea,Digestive disorder,331
+47,Male,192835,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,332
+35,Male,290226,HS-grad,Private,Never-married,Unmarried,Not-in-family,White,<=50K,Dementia,Mental disorder,332
+56,Male,112840,HS-grad,Private,Married-civ-spouse,Married,Husband,White,>50K,Gastritis,Digestive disorder,332
+45,Male,89325,Masters,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Oedema,Excretory_system disorder,333
+48,Male,33109,Bachelors,Federal-gov,Divorced,Unmarried,Unmarried,White,>50K,Asthama,Respiratory disease,333
+40,Male,82465,Some-college,Private,Married-civ-spouse,Married,Husband,White,<=50K,Dementia,Mental disorder,333
+39,Male,329980,Bachelors,Self-emp-inc,Married-civ-spouse,Married,Husband,White,>50K,Angina Pectoris,Circulatory_system disorder,334

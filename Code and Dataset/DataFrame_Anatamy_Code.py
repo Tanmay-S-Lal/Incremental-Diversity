@@ -762,6 +762,18 @@ def displayDF(df, headers):
     print(tabulate(df, headers=headers))
 
 
+def addLowerAndUpperAge(table):
+
+    output = copy.deepcopy(table)
+
+    for record in output.values():
+        age = record["Age"].replace(" ", "")  # Removing Spaces
+        age = age[1:-1]  # Removing Parentheses
+        record["Lower Age"], record["Upper Age"] = age.split("-")
+
+    return output
+
+
 def main(no_of_records, K, algo, display=False):
     """ 
         Spearheads the beginning of the Algorithm and returns the Performance Parameters.
@@ -819,6 +831,10 @@ def main(no_of_records, K, algo, display=False):
     masked_microdata = getMaskedDictionary(
         new_original_table, attributes_to_mask)
 
+    # 5) Adding Lower Age and Upper Age
+
+    masked_microdata = addLowerAndUpperAge(masked_microdata)
+
     # End Time for Program Run
     end = time.time()
 
@@ -855,7 +871,7 @@ def main(no_of_records, K, algo, display=False):
 
         df, columns = NestedDictionaryToDataFrame(original_table)
         df.to_csv(
-            f"original_microdata_Records_{no_of_records}_k_{K}.csv", index=False)
+            f"with_lower_upper_age/original_microdata_Records_{no_of_records}_k_{K}.csv", index=False)
 
         # 7) Converting to Pandas Dataframe
         masked_df, columns = NestedDictionaryToDataFrame(masked_microdata)
@@ -863,7 +879,7 @@ def main(no_of_records, K, algo, display=False):
         displayDF(masked_df, columns)
 
         masked_df.to_csv(
-            f"masked_microdata_Records_{no_of_records}_k_{K}.csv", index=False)
+            f"with_lower_upper_age/masked_microdata_Records_{no_of_records}_k_{K}.csv", index=False)
 
     # 8) Returning the Performance Parameters values for the Graph Plotting
 

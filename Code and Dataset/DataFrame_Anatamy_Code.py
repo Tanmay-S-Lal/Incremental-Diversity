@@ -64,7 +64,7 @@ def getMicrodata(no_of_records, K, sensitive_attribute, display):
 
     final_lines = None
 
-    with open("datasetEL.txt", 'r') as file:
+    with open("./datasetEL.txt", 'r') as file:
         final_lines = file.readlines()[1:no_of_records+1]
 
     diction = {}
@@ -942,7 +942,7 @@ def PerformanceParametersGraph():
     residue_list = [[], [], [], [], []]
     diversity_list = [[], [], [], [], []]
 
-    for records in range(25, 5026, 1000):   # 25 to 5025 in steps of 1000
+    for records in range(25, 10026, 1000):   # 25 to 5025 in steps of 1000
 
         for algo in range(1, 5+1):  # 1,2,3,4,5
 
@@ -970,7 +970,7 @@ def PerformanceParametersGraph():
 
     """ No. of records constant """
 
-    records_constant = 5000
+    records_constant = 10000
 
     time_list = [[], [], [], [], []]
     residue_list = [[], [], [], [], []]
@@ -1062,7 +1062,7 @@ def ComparisonGraph():
     residue_list = [[], []]
     diversity_list = [[], []]
 
-    for records in range(25, 5026, 1000):   # 25 to 5025 in steps of 1000
+    for records in range(25, 10026, 1000):   # 25 to 5025 in steps of 1000
 
         for algo in [5, -100]:
 
@@ -1092,7 +1092,7 @@ def ComparisonGraph():
 
     """ No. of records constant """
 
-    records_constant = 5000
+    records_constant = 10000
 
     time_list = [[], []]
     residue_list = [[], []]

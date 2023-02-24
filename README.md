@@ -10,6 +10,14 @@ Codebase and Journal Paper Components for Incremental Diversity
 
 [Masked_Microdata_Records_1000_k_3](https://storage.googleapis.com/incremental_diversity_dataset/masked_microdata_Records_1000_k_3.csv)
 
+## QIT Table Link
+
+[qit_1000_k_3](https://storage.googleapis.com/incremental_diversity_dataset/qit_1000_k_3.csv)
+
+## STE Table Link
+
+[st_1000_k_3](https://storage.googleapis.com/incremental_diversity_dataset/qit_1000_k_3.csv)
+
 ## Queries Link
 
 [Bachelors_State_gov_details](https://console.cloud.google.com/bigquery?sq=566051837684:765c52a7f1e94bf48ffea5d02c6ef657)  

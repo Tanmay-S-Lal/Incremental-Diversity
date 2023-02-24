@@ -1,0 +1,1001 @@
+Disease,Group ID
+Emphysema,1
+Insomnia,1
+Cardiac arrest,1
+Nephritis,2
+Cardiomyopathy,2
+Diarrhoea,2
+Jaundice,3
+Insomnia,3
+Cardiac arrest,3
+Oedema,4
+Gastritis,4
+Emphysema,4
+Jaundice,5
+Nephritis,5
+Asthama,5
+Uremia,6
+Angina Pectoris,6
+Jaundice,6
+Jaundice,7
+Uremia,7
+Asthama,7
+Schizophernia,8
+Gastritis,8
+Emphysema,8
+Schizophernia,9
+Cardiac arrest,9
+Emphysema,9
+Jaundice,10
+Emphysema,10
+Schizophernia,10
+Jaundice,11
+Pneumonia,11
+Angina Pectoris,11
+Pneumonia,12
+Diarrhoea,12
+Cardiomyopathy,12
+Emphysema,13
+Nephritis,13
+Diarrhoea,13
+Angina Pectoris,14
+Uremia,14
+Asthama,14
+Pneumonia,15
+Oedema,15
+Jaundice,15
+Oedema,16
+Cardiac arrest,16
+Gastritis,16
+Nephritis,17
+Emphysema,17
+Insomnia,17
+Cardiac arrest,18
+Asthama,18
+Gastritis,18
+Diarrhoea,19
+Insomnia,19
+Oedema,19
+Angina Pectoris,20
+Gastritis,20
+Emphysema,20
+Jaundice,21
+Cardiomyopathy,21
+Oedema,21
+Cardiomyopathy,22
+Uremia,22
+Jaundice,22
+Schizophernia,23
+Asthama,23
+Angina Pectoris,23
+Pneumonia,24
+Insomnia,24
+Angina Pectoris,24
+Gastritis,25
+Dementia,25
+Uremia,25
+Emphysema,26
+Uremia,26
+Insomnia,26
+Insomnia,27
+Emphysema,27
+Nephritis,27
+Dementia,28
+Oedema,28
+Emphysema,28
+Dementia,29
+Oedema,29
+Cardiac arrest,29
+Cardiac arrest,30
+Emphysema,30
+Diarrhoea,30
+Uremia,31
+Diarrhoea,31
+Asthama,31
+Cardiac arrest,32
+Asthama,32
+Uremia,32
+Schizophernia,33
+Emphysema,33
+Diarrhoea,33
+Insomnia,34
+Angina Pectoris,34
+Nephritis,34
+Emphysema,35
+Jaundice,35
+Dementia,35
+Asthama,36
+Cardiomyopathy,36
+Nephritis,36
+Cardiomyopathy,37
+Uremia,37
+Emphysema,37
+Insomnia,38
+Diarrhoea,38
+Oedema,38
+Insomnia,39
+Nephritis,39
+Gastritis,39
+Jaundice,40
+Nephritis,40
+Dementia,40
+Cardiac arrest,41
+Insomnia,41
+Asthama,41
+Cardiac arrest,42
+Diarrhoea,42
+Nephritis,42
+Uremia,43
+Pneumonia,43
+Cardiac arrest,43
+Asthama,44
+Jaundice,44
+Cardiac arrest,44
+Gastritis,45
+Asthama,45
+Angina Pectoris,45
+Jaundice,46
+Dementia,46
+Emphysema,46
+Schizophernia,47
+Gastritis,47
+Emphysema,47
+Oedema,48
+Pneumonia,48
+Angina Pectoris,48
+Oedema,49
+Cardiomyopathy,49
+Gastritis,49
+Oedema,50
+Schizophernia,50
+Pneumonia,50
+Gastritis,51
+Asthama,51
+Angina Pectoris,51
+Schizophernia,52
+Jaundice,52
+Emphysema,52
+Uremia,53
+Cardiac arrest,53
+Schizophernia,53
+Diarrhoea,54
+Pneumonia,54
+Schizophernia,54
+Asthama,55
+Insomnia,55
+Jaundice,55
+Emphysema,56
+Uremia,56
+Diarrhoea,56
+Nephritis,57
+Cardiac arrest,57
+Asthama,57
+Gastritis,58
+Cardiac arrest,58
+Emphysema,58
+Oedema,59
+Dementia,59
+Jaundice,59
+Oedema,60
+Schizophernia,60
+Diarrhoea,60
+Insomnia,61
+Nephritis,61
+Gastritis,61
+Schizophernia,62
+Emphysema,62
+Uremia,62
+Dementia,63
+Diarrhoea,63
+Cardiomyopathy,63
+Nephritis,64
+Dementia,64
+Cardiac arrest,64
+Dementia,65
+Emphysema,65
+Nephritis,65
+Jaundice,66
+Schizophernia,66
+Uremia,66
+Cardiac arrest,67
+Emphysema,67
+Dementia,67
+Diarrhoea,68
+Insomnia,68
+Pneumonia,68
+Gastritis,69
+Cardiac arrest,69
+Schizophernia,69
+Oedema,70
+Cardiomyopathy,70
+Dementia,70
+Pneumonia,71
+Nephritis,71
+Dementia,71
+Cardiac arrest,72
+Gastritis,72
+Uremia,72
+Nephritis,73
+Insomnia,73
+Emphysema,73
+Nephritis,74
+Dementia,74
+Cardiomyopathy,74
+Insomnia,75
+Gastritis,75
+Angina Pectoris,75
+Schizophernia,76
+Emphysema,76
+Jaundice,76
+Dementia,77
+Cardiomyopathy,77
+Oedema,77
+Cardiac arrest,78
+Oedema,78
+Schizophernia,78
+Asthama,79
+Gastritis,79
+Cardiac arrest,79
+Angina Pectoris,80
+Schizophernia,80
+Asthama,80
+Dementia,81
+Asthama,81
+Uremia,81
+Schizophernia,82
+Gastritis,82
+Cardiomyopathy,82
+Dementia,83
+Gastritis,83
+Asthama,83
+Pneumonia,84
+Dementia,84
+Angina Pectoris,84
+Insomnia,85
+Oedema,85
+Angina Pectoris,85
+Emphysema,86
+Oedema,86
+Schizophernia,86
+Angina Pectoris,87
+Emphysema,87
+Schizophernia,87
+Insomnia,88
+Jaundice,88
+Cardiomyopathy,88
+Cardiac arrest,89
+Dementia,89
+Jaundice,89
+Diarrhoea,90
+Cardiac arrest,90
+Schizophernia,90
+Jaundice,91
+Schizophernia,91
+Cardiomyopathy,91
+Angina Pectoris,92
+Asthama,92
+Dementia,92
+Gastritis,93
+Cardiomyopathy,93
+Insomnia,93
+Angina Pectoris,94
+Schizophernia,94
+Oedema,94
+Angina Pectoris,95
+Pneumonia,95
+Schizophernia,95
+Jaundice,96
+Oedema,96
+Insomnia,96
+Asthama,97
+Oedema,97
+Gastritis,97
+Jaundice,98
+Cardiac arrest,98
+Pneumonia,98
+Gastritis,99
+Dementia,99
+Emphysema,99
+Jaundice,100
+Cardiac arrest,100
+Dementia,100
+Schizophernia,101
+Cardiac arrest,101
+Gastritis,101
+Asthama,102
+Gastritis,102
+Insomnia,102
+Uremia,103
+Pneumonia,103
+Diarrhoea,103
+Gastritis,104
+Pneumonia,104
+Cardiomyopathy,104
+Angina Pectoris,105
+Diarrhoea,105
+Asthama,105
+Emphysema,106
+Diarrhoea,106
+Dementia,106
+Jaundice,107
+Emphysema,107
+Insomnia,107
+Angina Pectoris,108
+Dementia,108
+Pneumonia,108
+Angina Pectoris,109
+Gastritis,109
+Asthama,109
+Schizophernia,110
+Asthama,110
+Jaundice,110
+Gastritis,111
+Schizophernia,111
+Asthama,111
+Dementia,112
+Jaundice,112
+Oedema,112
+Cardiomyopathy,113
+Jaundice,113
+Pneumonia,113
+Schizophernia,114
+Asthama,114
+Jaundice,114
+Jaundice,115
+Cardiomyopathy,115
+Oedema,115
+Gastritis,116
+Uremia,116
+Asthama,116
+Pneumonia,117
+Oedema,117
+Cardiac arrest,117
+Dementia,118
+Cardiomyopathy,118
+Diarrhoea,118
+Diarrhoea,119
+Pneumonia,119
+Uremia,119
+Angina Pectoris,120
+Emphysema,120
+Nephritis,120
+Emphysema,121
+Cardiomyopathy,121
+Diarrhoea,121
+Dementia,122
+Emphysema,122
+Gastritis,122
+Pneumonia,123
+Dementia,123
+Uremia,123
+Gastritis,124
+Insomnia,124
+Cardiomyopathy,124
+Emphysema,125
+Jaundice,125
+Insomnia,125
+Emphysema,126
+Nephritis,126
+Jaundice,126
+Cardiomyopathy,127
+Diarrhoea,127
+Pneumonia,127
+Dementia,128
+Nephritis,128
+Pneumonia,128
+Schizophernia,129
+Jaundice,129
+Emphysema,129
+Emphysema,130
+Diarrhoea,130
+Schizophernia,130
+Pneumonia,131
+Jaundice,131
+Insomnia,131
+Asthama,132
+Gastritis,132
+Insomnia,132
+Asthama,133
+Nephritis,133
+Gastritis,133
+Insomnia,134
+Oedema,134
+Diarrhoea,134
+Nephritis,135
+Diarrhoea,135
+Emphysema,135
+Pneumonia,136
+Gastritis,136
+Schizophernia,136
+Gastritis,137
+Cardiomyopathy,137
+Asthama,137
+Cardiomyopathy,138
+Dementia,138
+Oedema,138
+Angina Pectoris,139
+Diarrhoea,139
+Nephritis,139
+Asthama,140
+Jaundice,140
+Cardiomyopathy,140
+Jaundice,141
+Asthama,141
+Angina Pectoris,141
+Nephritis,142
+Pneumonia,142
+Cardiomyopathy,142
+Insomnia,143
+Angina Pectoris,143
+Pneumonia,143
+Schizophernia,144
+Cardiac arrest,144
+Pneumonia,144
+Cardiomyopathy,145
+Asthama,145
+Jaundice,145
+Asthama,146
+Insomnia,146
+Cardiac arrest,146
+Pneumonia,147
+Schizophernia,147
+Gastritis,147
+Uremia,148
+Dementia,148
+Emphysema,148
+Diarrhoea,149
+Uremia,149
+Angina Pectoris,149
+Diarrhoea,150
+Insomnia,150
+Pneumonia,150
+Schizophernia,151
+Nephritis,151
+Angina Pectoris,151
+Insomnia,152
+Oedema,152
+Cardiomyopathy,152
+Cardiac arrest,153
+Pneumonia,153
+Schizophernia,153
+Schizophernia,154
+Uremia,154
+Pneumonia,154
+Jaundice,155
+Schizophernia,155
+Oedema,155
+Uremia,156
+Diarrhoea,156
+Insomnia,156
+Pneumonia,157
+Cardiomyopathy,157
+Schizophernia,157
+Pneumonia,158
+Cardiac arrest,158
+Insomnia,158
+Emphysema,159
+Diarrhoea,159
+Uremia,159
+Insomnia,160
+Pneumonia,160
+Nephritis,160
+Cardiomyopathy,161
+Oedema,161
+Asthama,161
+Gastritis,162
+Angina Pectoris,162
+Dementia,162
+Cardiomyopathy,163
+Oedema,163
+Dementia,163
+Oedema,164
+Cardiomyopathy,164
+Asthama,164
+Dementia,165
+Pneumonia,165
+Angina Pectoris,165
+Gastritis,166
+Angina Pectoris,166
+Nephritis,166
+Oedema,167
+Emphysema,167
+Dementia,167
+Jaundice,168
+Dementia,168
+Oedema,168
+Emphysema,169
+Cardiac arrest,169
+Oedema,169
+Insomnia,170
+Oedema,170
+Jaundice,170
+Cardiac arrest,171
+Gastritis,171
+Pneumonia,171
+Nephritis,172
+Gastritis,172
+Cardiac arrest,172
+Schizophernia,173
+Cardiomyopathy,173
+Nephritis,173
+Pneumonia,174
+Schizophernia,174
+Jaundice,174
+Dementia,175
+Pneumonia,175
+Angina Pectoris,175
+Uremia,176
+Insomnia,176
+Pneumonia,176
+Cardiac arrest,177
+Emphysema,177
+Gastritis,177
+Uremia,178
+Diarrhoea,178
+Emphysema,178
+Pneumonia,179
+Gastritis,179
+Cardiac arrest,179
+Cardiac arrest,180
+Diarrhoea,180
+Insomnia,180
+Pneumonia,181
+Insomnia,181
+Cardiac arrest,181
+Oedema,182
+Schizophernia,182
+Cardiac arrest,182
+Jaundice,183
+Insomnia,183
+Cardiac arrest,183
+Nephritis,184
+Diarrhoea,184
+Cardiac arrest,184
+Cardiac arrest,185
+Asthama,185
+Uremia,185
+Cardiomyopathy,186
+Gastritis,186
+Schizophernia,186
+Emphysema,187
+Diarrhoea,187
+Oedema,187
+Gastritis,188
+Oedema,188
+Schizophernia,188
+Cardiomyopathy,189
+Gastritis,189
+Emphysema,189
+Pneumonia,190
+Dementia,190
+Angina Pectoris,190
+Asthama,191
+Cardiac arrest,191
+Nephritis,191
+Insomnia,192
+Gastritis,192
+Pneumonia,192
+Emphysema,193
+Cardiomyopathy,193
+Insomnia,193
+Insomnia,194
+Angina Pectoris,194
+Pneumonia,194
+Insomnia,195
+Angina Pectoris,195
+Diarrhoea,195
+Schizophernia,196
+Angina Pectoris,196
+Gastritis,196
+Gastritis,197
+Pneumonia,197
+Nephritis,197
+Cardiac arrest,198
+Gastritis,198
+Insomnia,198
+Cardiomyopathy,199
+Diarrhoea,199
+Oedema,199
+Emphysema,200
+Nephritis,200
+Gastritis,200
+Oedema,201
+Angina Pectoris,201
+Pneumonia,201
+Gastritis,202
+Pneumonia,202
+Cardiomyopathy,202
+Cardiac arrest,203
+Dementia,203
+Gastritis,203
+Asthama,204
+Cardiac arrest,204
+Diarrhoea,204
+Jaundice,205
+Emphysema,205
+Schizophernia,205
+Cardiomyopathy,206
+Dementia,206
+Oedema,206
+Nephritis,207
+Angina Pectoris,207
+Asthama,207
+Nephritis,208
+Insomnia,208
+Cardiomyopathy,208
+Dementia,209
+Nephritis,209
+Angina Pectoris,209
+Emphysema,210
+Cardiac arrest,210
+Oedema,210
+Nephritis,211
+Gastritis,211
+Cardiomyopathy,211
+Pneumonia,212
+Oedema,212
+Cardiac arrest,212
+Cardiac arrest,213
+Oedema,213
+Pneumonia,213
+Cardiac arrest,214
+Uremia,214
+Pneumonia,214
+Emphysema,215
+Angina Pectoris,215
+Nephritis,215
+Diarrhoea,216
+Nephritis,216
+Angina Pectoris,216
+Emphysema,217
+Uremia,217
+Gastritis,217
+Diarrhoea,218
+Emphysema,218
+Uremia,218
+Oedema,219
+Asthama,219
+Angina Pectoris,219
+Asthama,220
+Oedema,220
+Diarrhoea,220
+Diarrhoea,221
+Emphysema,221
+Cardiomyopathy,221
+Gastritis,222
+Angina Pectoris,222
+Asthama,222
+Jaundice,223
+Cardiac arrest,223
+Asthama,223
+Schizophernia,224
+Cardiac arrest,224
+Oedema,224
+Jaundice,225
+Cardiomyopathy,225
+Schizophernia,225
+Emphysema,226
+Insomnia,226
+Jaundice,226
+Insomnia,227
+Angina Pectoris,227
+Diarrhoea,227
+Cardiac arrest,228
+Pneumonia,228
+Nephritis,228
+Nephritis,229
+Dementia,229
+Jaundice,229
+Schizophernia,230
+Oedema,230
+Emphysema,230
+Dementia,231
+Cardiac arrest,231
+Uremia,231
+Oedema,232
+Angina Pectoris,232
+Dementia,232
+Insomnia,233
+Cardiac arrest,233
+Nephritis,233
+Angina Pectoris,234
+Schizophernia,234
+Pneumonia,234
+Gastritis,235
+Nephritis,235
+Dementia,235
+Jaundice,236
+Insomnia,236
+Cardiac arrest,236
+Insomnia,237
+Oedema,237
+Jaundice,237
+Gastritis,238
+Angina Pectoris,238
+Oedema,238
+Dementia,239
+Emphysema,239
+Uremia,239
+Gastritis,240
+Emphysema,240
+Dementia,240
+Asthama,241
+Nephritis,241
+Jaundice,241
+Uremia,242
+Pneumonia,242
+Dementia,242
+Schizophernia,243
+Cardiomyopathy,243
+Nephritis,243
+Cardiomyopathy,244
+Nephritis,244
+Insomnia,244
+Emphysema,245
+Uremia,245
+Angina Pectoris,245
+Cardiac arrest,246
+Schizophernia,246
+Nephritis,246
+Pneumonia,247
+Uremia,247
+Schizophernia,247
+Emphysema,248
+Diarrhoea,248
+Uremia,248
+Angina Pectoris,249
+Schizophernia,249
+Gastritis,249
+Diarrhoea,250
+Nephritis,250
+Angina Pectoris,250
+Cardiomyopathy,251
+Emphysema,251
+Insomnia,251
+Diarrhoea,252
+Nephritis,252
+Emphysema,252
+Oedema,253
+Gastritis,253
+Emphysema,253
+Emphysema,254
+Oedema,254
+Jaundice,254
+Nephritis,255
+Gastritis,255
+Angina Pectoris,255
+Pneumonia,256
+Jaundice,256
+Nephritis,256
+Pneumonia,257
+Cardiomyopathy,257
+Uremia,257
+Insomnia,258
+Cardiomyopathy,258
+Oedema,258
+Asthama,259
+Nephritis,259
+Diarrhoea,259
+Cardiomyopathy,260
+Insomnia,260
+Jaundice,260
+Angina Pectoris,261
+Diarrhoea,261
+Schizophernia,261
+Asthama,262
+Cardiac arrest,262
+Gastritis,262
+Diarrhoea,263
+Dementia,263
+Cardiac arrest,263
+Diarrhoea,264
+Angina Pectoris,264
+Pneumonia,264
+Uremia,265
+Cardiac arrest,265
+Emphysema,265
+Gastritis,266
+Insomnia,266
+Angina Pectoris,266
+Pneumonia,267
+Insomnia,267
+Angina Pectoris,267
+Jaundice,268
+Cardiac arrest,268
+Insomnia,268
+Gastritis,269
+Cardiomyopathy,269
+Nephritis,269
+Dementia,270
+Uremia,270
+Jaundice,270
+Diarrhoea,271
+Pneumonia,271
+Angina Pectoris,271
+Oedema,272
+Cardiac arrest,272
+Diarrhoea,272
+Cardiomyopathy,273
+Nephritis,273
+Jaundice,273
+Uremia,274
+Pneumonia,274
+Dementia,274
+Pneumonia,275
+Cardiac arrest,275
+Nephritis,275
+Gastritis,276
+Nephritis,276
+Dementia,276
+Pneumonia,277
+Jaundice,277
+Cardiac arrest,277
+Insomnia,278
+Uremia,278
+Emphysema,278
+Insomnia,279
+Nephritis,279
+Gastritis,279
+Cardiac arrest,280
+Diarrhoea,280
+Emphysema,280
+Uremia,281
+Schizophernia,281
+Angina Pectoris,281
+Emphysema,282
+Cardiac arrest,282
+Gastritis,282
+Nephritis,283
+Asthama,283
+Insomnia,283
+Jaundice,284
+Angina Pectoris,284
+Oedema,284
+Dementia,285
+Jaundice,285
+Uremia,285
+Cardiac arrest,286
+Uremia,286
+Diarrhoea,286
+Asthama,287
+Cardiomyopathy,287
+Oedema,287
+Uremia,288
+Emphysema,288
+Insomnia,288
+Schizophernia,289
+Cardiomyopathy,289
+Oedema,289
+Oedema,290
+Angina Pectoris,290
+Asthama,290
+Cardiomyopathy,291
+Pneumonia,291
+Uremia,291
+Cardiomyopathy,292
+Jaundice,292
+Schizophernia,292
+Cardiomyopathy,293
+Schizophernia,293
+Oedema,293
+Pneumonia,294
+Oedema,294
+Jaundice,294
+Diarrhoea,295
+Insomnia,295
+Uremia,295
+Dementia,296
+Pneumonia,296
+Jaundice,296
+Jaundice,297
+Insomnia,297
+Uremia,297
+Gastritis,298
+Angina Pectoris,298
+Asthama,298
+Gastritis,299
+Dementia,299
+Uremia,299
+Emphysema,300
+Nephritis,300
+Gastritis,300
+Cardiac arrest,301
+Oedema,301
+Dementia,301
+Cardiac arrest,302
+Schizophernia,302
+Gastritis,302
+Oedema,303
+Cardiac arrest,303
+Gastritis,303
+Oedema,304
+Emphysema,304
+Cardiomyopathy,304
+Gastritis,305
+Pneumonia,305
+Uremia,305
+Uremia,306
+Jaundice,306
+Dementia,306
+Pneumonia,307
+Angina Pectoris,307
+Insomnia,307
+Nephritis,308
+Jaundice,308
+Insomnia,308
+Cardiac arrest,309
+Jaundice,309
+Insomnia,309
+Schizophernia,310
+Angina Pectoris,310
+Emphysema,310
+Cardiac arrest,311
+Dementia,311
+Oedema,311
+Schizophernia,312
+Emphysema,312
+Diarrhoea,312
+Pneumonia,313
+Schizophernia,313
+Diarrhoea,313
+Insomnia,314
+Asthama,314
+Oedema,314
+Asthama,315
+Gastritis,315
+Insomnia,315
+Oedema,316
+Jaundice,316
+Schizophernia,316
+Dementia,317
+Cardiomyopathy,317
+Oedema,317
+Pneumonia,318
+Uremia,318
+Jaundice,318
+Angina Pectoris,319
+Dementia,319
+Oedema,319
+Gastritis,320
+Cardiomyopathy,320
+Dementia,320
+Jaundice,321
+Insomnia,321
+Cardiac arrest,321
+Uremia,322
+Diarrhoea,322
+Schizophernia,322
+Dementia,323
+Diarrhoea,323
+Uremia,323
+Oedema,324
+Cardiomyopathy,324
+Pneumonia,324
+Cardiomyopathy,325
+Uremia,325
+Asthama,325
+Angina Pectoris,326
+Schizophernia,326
+Oedema,326
+Dementia,327
+Uremia,327
+Diarrhoea,327
+Oedema,328
+Emphysema,328
+Angina Pectoris,328
+Pneumonia,329
+Diarrhoea,329
+Nephritis,329
+Insomnia,330
+Gastritis,330
+Cardiomyopathy,330
+Cardiac arrest,331
+Nephritis,331
+Diarrhoea,331
+Diarrhoea,332
+Dementia,332
+Oedema,333
+Asthama,333
+Dementia,333
+Angina Pectoris,334
+Gastritis,334

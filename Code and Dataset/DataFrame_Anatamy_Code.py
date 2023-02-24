@@ -881,6 +881,16 @@ def main(no_of_records, K, algo, display=False):
         masked_df.to_csv(
             f"with_lower_upper_age/masked_microdata_Records_{no_of_records}_k_{K}.csv", index=False)
 
+        # Converting QIT and ST to Dataframe
+        qit_df, columns = NestedDictionaryToDataFrame(qit_table)
+        st_df, columns = NestedDictionaryToDataFrame(st_table)
+
+        # Saving QIT and ST to CSV
+        qit_df.to_csv(
+            f"with_lower_upper_age/qit_{no_of_records}_k_{K}.csv", index=False)
+        st_df.to_csv(
+            f"with_lower_upper_age/st_{no_of_records}_k_{K}.csv", index=False)
+
     # 8) Returning the Performance Parameters values for the Graph Plotting
 
     return no_of_records, K, total_time, residue_percentage, diversity_percentage

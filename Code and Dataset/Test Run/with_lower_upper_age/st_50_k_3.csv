@@ -1,0 +1,51 @@
+Disease,Group ID
+Emphysema,1
+Insomnia,1
+Cardiac arrest,1
+Nephritis,2
+Cardiomyopathy,2
+Diarrhoea,2
+Jaundice,3
+Insomnia,3
+Cardiac arrest,3
+Oedema,4
+Gastritis,4
+Emphysema,4
+Jaundice,5
+Nephritis,5
+Asthama,5
+Uremia,6
+Angina Pectoris,6
+Jaundice,6
+Jaundice,7
+Uremia,7
+Asthama,7
+Schizophernia,8
+Gastritis,8
+Emphysema,8
+Schizophernia,9
+Cardiac arrest,9
+Emphysema,9
+Jaundice,10
+Emphysema,10
+Schizophernia,10
+Jaundice,11
+Pneumonia,11
+Angina Pectoris,11
+Pneumonia,12
+Diarrhoea,12
+Emphysema,13
+Nephritis,13
+Diarrhoea,13
+Angina Pectoris,14
+Uremia,14
+Asthama,14
+Pneumonia,15
+Oedema,15
+Jaundice,15
+Oedema,16
+Cardiac arrest,16
+Gastritis,16
+Nephritis,17
+Emphysema,17
+Jaundice,17

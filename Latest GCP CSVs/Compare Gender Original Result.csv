@@ -1,0 +1,118 @@
+Age,Gender,Education,Marital_Status,Disease
+42,Male,Bachelors,Married-civ-spouse,Oedema
+57,Male,Bachelors,Married-civ-spouse,Oedema
+28,Male,Bachelors,Married-civ-spouse,Oedema
+38,Male,Bachelors,Married-civ-spouse,Oedema
+31,Male,Bachelors,Never-married,Oedema
+28,Male,Bachelors,Never-married,Oedema
+32,Male,Bachelors,Never-married,Oedema
+30,Male,Bachelors,Married-civ-spouse,Uremia
+42,Male,Bachelors,Married-civ-spouse,Uremia
+39,Male,Bachelors,Married-civ-spouse,Uremia
+39,Male,Bachelors,Married-civ-spouse,Uremia
+48,Male,Bachelors,Married-civ-spouse,Uremia
+23,Male,Bachelors,Never-married,Uremia
+37,Male,Bachelors,Never-married,Uremia
+53,Male,Bachelors,Married-civ-spouse,Asthama
+37,Male,Bachelors,Married-civ-spouse,Asthama
+34,Male,Bachelors,Married-civ-spouse,Asthama
+37,Male,Bachelors,Married-civ-spouse,Asthama
+37,Male,Bachelors,Married-civ-spouse,Asthama
+45,Male,Bachelors,Divorced,Asthama
+48,Male,Bachelors,Divorced,Asthama
+32,Male,Bachelors,Married-civ-spouse,Asthama
+52,Male,Bachelors,Married-civ-spouse,Dementia
+41,Male,Bachelors,Married-civ-spouse,Dementia
+40,Male,Bachelors,Married-civ-spouse,Dementia
+33,Male,Bachelors,Married-civ-spouse,Dementia
+33,Male,Bachelors,Married-civ-spouse,Dementia
+33,Male,Bachelors,Never-married,Dementia
+43,Male,Bachelors,Divorced,Dementia
+29,Male,Bachelors,Married-civ-spouse,Insomnia
+50,Male,Bachelors,Married-civ-spouse,Insomnia
+51,Male,Bachelors,Married-civ-spouse,Insomnia
+38,Male,Bachelors,Married-civ-spouse,Insomnia
+52,Male,Bachelors,Married-civ-spouse,Insomnia
+42,Male,Bachelors,Married-civ-spouse,Insomnia
+43,Male,Bachelors,Married-civ-spouse,Insomnia
+43,Male,Bachelors,Married-civ-spouse,Insomnia
+64,Male,Bachelors,Married-civ-spouse,Insomnia
+38,Male,Bachelors,Married-civ-spouse,Insomnia
+30,Male,Bachelors,Never-married,Insomnia
+31,Male,Bachelors,Never-married,Insomnia
+30,Male,Bachelors,Married-civ-spouse,Jaundice
+36,Male,Bachelors,Married-civ-spouse,Jaundice
+32,Male,Bachelors,Married-civ-spouse,Jaundice
+24,Male,Bachelors,Never-married,Jaundice
+27,Male,Bachelors,Never-married,Jaundice
+29,Male,Bachelors,Never-married,Jaundice
+51,Male,Bachelors,Never-married,Jaundice
+33,Male,Bachelors,Married-civ-spouse,Diarrhoea
+59,Male,Bachelors,Married-civ-spouse,Diarrhoea
+33,Male,Bachelors,Married-civ-spouse,Diarrhoea
+26,Male,Bachelors,Never-married,Diarrhoea
+31,Male,Bachelors,Never-married,Diarrhoea
+24,Male,Bachelors,Never-married,Diarrhoea
+42,Male,Bachelors,Separated,Diarrhoea
+30,Male,Bachelors,Married-civ-spouse,Emphysema
+41,Male,Bachelors,Married-civ-spouse,Emphysema
+45,Male,Bachelors,Married-civ-spouse,Emphysema
+34,Male,Bachelors,Married-civ-spouse,Emphysema
+42,Male,Bachelors,Married-civ-spouse,Emphysema
+26,Male,Bachelors,Never-married,Emphysema
+22,Male,Bachelors,Never-married,Emphysema
+39,Male,Bachelors,Never-married,Emphysema
+29,Male,Bachelors,Married-civ-spouse,Gastritis
+36,Male,Bachelors,Married-civ-spouse,Gastritis
+54,Male,Bachelors,Married-civ-spouse,Gastritis
+31,Male,Bachelors,Married-civ-spouse,Gastritis
+50,Male,Bachelors,Divorced,Gastritis
+43,Male,Bachelors,Never-married,Gastritis
+35,Male,Bachelors,Never-married,Gastritis
+44,Male,Bachelors,Married-civ-spouse,Nephritis
+50,Male,Bachelors,Married-civ-spouse,Nephritis
+52,Male,Bachelors,Married-civ-spouse,Nephritis
+43,Male,Bachelors,Married-civ-spouse,Nephritis
+46,Male,Bachelors,Married-civ-spouse,Nephritis
+30,Male,Bachelors,Married-civ-spouse,Nephritis
+28,Male,Bachelors,Never-married,Nephritis
+24,Male,Bachelors,Married-civ-spouse,Pneumonia
+25,Male,Bachelors,Married-civ-spouse,Pneumonia
+34,Male,Bachelors,Married-civ-spouse,Pneumonia
+38,Male,Bachelors,Married-civ-spouse,Pneumonia
+49,Male,Bachelors,Married-civ-spouse,Pneumonia
+41,Male,Bachelors,Married-civ-spouse,Pneumonia
+23,Male,Bachelors,Never-married,Pneumonia
+27,Male,Bachelors,Never-married,Pneumonia
+57,Male,Bachelors,Divorced,Pneumonia
+43,Male,Bachelors,Never-married,Pneumonia
+48,Male,Bachelors,Married-civ-spouse,Schizophernia
+28,Male,Bachelors,Married-civ-spouse,Schizophernia
+41,Male,Bachelors,Married-civ-spouse,Schizophernia
+26,Male,Bachelors,Never-married,Schizophernia
+29,Male,Bachelors,Never-married,Schizophernia
+36,Male,Bachelors,Never-married,Schizophernia
+56,Male,Bachelors,Married-civ-spouse,Cardiac arrest
+34,Male,Bachelors,Married-civ-spouse,Cardiac arrest
+29,Male,Bachelors,Married-civ-spouse,Cardiac arrest
+33,Male,Bachelors,Married-civ-spouse,Cardiac arrest
+32,Male,Bachelors,Married-civ-spouse,Cardiac arrest
+24,Male,Bachelors,Never-married,Cardiac arrest
+29,Male,Bachelors,Never-married,Cardiac arrest
+24,Male,Bachelors,Never-married,Cardiac arrest
+21,Male,Bachelors,Never-married,Cardiac arrest
+46,Male,Bachelors,Never-married,Cardiac arrest
+24,Male,Bachelors,Never-married,Cardiac arrest
+43,Male,Bachelors,Married-civ-spouse,Cardiomyopathy
+52,Male,Bachelors,Married-civ-spouse,Cardiomyopathy
+29,Male,Bachelors,Married-civ-spouse,Cardiomyopathy
+44,Male,Bachelors,Married-civ-spouse,Cardiomyopathy
+51,Male,Bachelors,Married-civ-spouse,Cardiomyopathy
+33,Male,Bachelors,Married-civ-spouse,Cardiomyopathy
+67,Male,Bachelors,Widowed,Cardiomyopathy
+40,Male,Bachelors,Married-civ-spouse,Angina Pectoris
+41,Male,Bachelors,Married-civ-spouse,Angina Pectoris
+33,Male,Bachelors,Married-civ-spouse,Angina Pectoris
+39,Male,Bachelors,Married-civ-spouse,Angina Pectoris
+29,Male,Bachelors,Separated,Angina Pectoris
+36,Male,Bachelors,Separated,Angina Pectoris

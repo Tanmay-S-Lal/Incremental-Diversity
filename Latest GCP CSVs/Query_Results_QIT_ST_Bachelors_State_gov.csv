@@ -1,0 +1,40 @@
+Group_ID,Gender,Zip_Code,Education,Employment,Disease
+1,Male,77516,Bachelors,State-gov,Emphysema
+1,Male,77516,Bachelors,State-gov,Insomnia
+1,Male,77516,Bachelors,State-gov,Cardiac arrest
+4,Male,141297,Bachelors,State-gov,Oedema
+4,Male,141297,Bachelors,State-gov,Gastritis
+4,Male,141297,Bachelors,State-gov,Emphysema
+42,Male,267989,Bachelors,State-gov,Diarrhoea
+42,Male,267989,Bachelors,State-gov,Cardiac arrest
+42,Male,267989,Bachelors,State-gov,Nephritis
+59,Male,149624,Bachelors,State-gov,Oedema
+59,Male,149624,Bachelors,State-gov,Jaundice
+59,Male,149624,Bachelors,State-gov,Dementia
+132,Male,98101,Bachelors,State-gov,Insomnia
+132,Male,98101,Bachelors,State-gov,Gastritis
+132,Male,98101,Bachelors,State-gov,Asthama
+135,Male,288353,Bachelors,State-gov,Nephritis
+135,Male,288353,Bachelors,State-gov,Emphysema
+135,Male,288353,Bachelors,State-gov,Diarrhoea
+141,Female,92003,Bachelors,State-gov,Jaundice
+141,Female,92003,Bachelors,State-gov,Asthama
+141,Female,92003,Bachelors,State-gov,Angina Pectoris
+160,Male,70100,Bachelors,State-gov,Insomnia
+160,Male,70100,Bachelors,State-gov,Pneumonia
+160,Male,70100,Bachelors,State-gov,Nephritis
+217,Male,169496,Bachelors,State-gov,Gastritis
+217,Male,169496,Bachelors,State-gov,Emphysema
+217,Male,169496,Bachelors,State-gov,Uremia
+232,Female,335453,Bachelors,State-gov,Oedema
+232,Female,335453,Bachelors,State-gov,Angina Pectoris
+232,Female,335453,Bachelors,State-gov,Dementia
+246,Male,260960,Bachelors,State-gov,Cardiac arrest
+246,Male,260960,Bachelors,State-gov,Schizophernia
+246,Male,260960,Bachelors,State-gov,Nephritis
+250,Male,193047,Bachelors,State-gov,Diarrhoea
+250,Male,193047,Bachelors,State-gov,Nephritis
+250,Male,193047,Bachelors,State-gov,Angina Pectoris
+251,Male,356089,Bachelors,State-gov,Insomnia
+251,Male,356089,Bachelors,State-gov,Emphysema
+251,Male,356089,Bachelors,State-gov,Cardiomyopathy

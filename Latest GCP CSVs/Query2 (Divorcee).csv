@@ -1,0 +1,137 @@
+Age,Relationship,Race,Disease
+(30 - 39),Not-in-family,White,Cardiac arrest
+(40 - 69),Unmarried,White,Jaundice
+(40 - 49),Own-child,White,Asthama
+(50 - 79),Unmarried,White,Schizophernia
+(30 - 39),Not-in-family,White,Emphysema
+(40 - 59),Unmarried,White,Angina Pectoris
+(50 - 79),Not-in-family,White,Gastritis
+(40 - 49),Not-in-family,White,Diarrhoea
+(20 - 39),Not-in-family,White,Schizophernia
+(20 - 49),Not-in-family,White,Angina Pectoris
+(50 - 69),Own-child,White,Oedema
+(40 - 59),Not-in-family,White,Dementia
+(20 - 29),Unmarried,Black,Asthama
+(30 - 39),Unmarried,White,Diarrhoea
+(40 - 69),Unmarried,White,Emphysema
+(30 - 49),Not-in-family,White,Asthama
+(40 - 69),Not-in-family,Black,Angina Pectoris
+(40 - 59),Not-in-family,White,Pneumonia
+(40 - 69),Unmarried,White,Gastritis
+(50 - 59),Not-in-family,White,Jaundice
+(20 - 39),Not-in-family,White,Schizophernia
+(60 - 89),Not-in-family,White,Pneumonia
+(40 - 49),Unmarried,Asian-Pac-Islander,Asthama
+(30 - 49),Unmarried,White,Emphysema
+(40 - 49),Not-in-family,White,Nephritis
+(40 - 69),Not-in-family,White,Dementia
+(50 - 79),Not-in-family,White,Diarrhoea
+(30 - 39),Not-in-family,Black,Dementia
+(30 - 59),Not-in-family,White,Schizophernia
+(30 - 59),Unmarried,White,Gastritis
+(30 - 39),Not-in-family,White,Oedema
+(50 - 59),Not-in-family,White,Nephritis
+(60 - 69),Not-in-family,Amer-Indian-Eskimo,Emphysema
+(30 - 49),Other-relative,Other,Oedema
+(60 - 79),Not-in-family,White,Cardiomyopathy
+(60 - 89),Not-in-family,White,Schizophernia
+(40 - 69),Unmarried,Black,Cardiac arrest
+(30 - 39),Not-in-family,White,Gastritis
+(30 - 59),Own-child,White,Angina Pectoris
+(50 - 79),Not-in-family,White,Emphysema
+(30 - 39),Own-child,White,Cardiomyopathy
+(30 - 49),Unmarried,Black,Angina Pectoris
+(60 - 79),Not-in-family,White,Pneumonia
+(50 - 79),Not-in-family,White,Insomnia
+(30 - 49),Not-in-family,White,Jaundice
+(30 - 59),Not-in-family,White,Dementia
+(30 - 59),Not-in-family,Black,Diarrhoea
+(30 - 39),Not-in-family,White,Diarrhoea
+(30 - 59),Not-in-family,White,Dementia
+(40 - 69),Not-in-family,White,Jaundice
+(30 - 49),Unmarried,White,Asthama
+(40 - 59),Not-in-family,White,Dementia
+(50 - 79),Not-in-family,White,Uremia
+(30 - 39),Unmarried,White,Gastritis
+(40 - 49),Not-in-family,White,Cardiomyopathy
+(50 - 59),Not-in-family,White,Diarrhoea
+(40 - 59),Not-in-family,White,Pneumonia
+(40 - 59),Not-in-family,White,Dementia
+(40 - 49),Unmarried,White,Asthama
+(30 - 59),Not-in-family,White,Diarrhoea
+(40 - 59),Not-in-family,Black,Asthama
+(30 - 59),Unmarried,White,Dementia
+(30 - 39),Not-in-family,White,Diarrhoea
+(30 - 49),Unmarried,White,Jaundice
+(20 - 29),Not-in-family,White,Nephritis
+(40 - 49),Not-in-family,White,Uremia
+(50 - 69),Unmarried,White,Oedema
+(60 - 89),Not-in-family,White,Emphysema
+(40 - 49),Unmarried,White,Dementia
+(40 - 59),Not-in-family,White,Asthama
+(30 - 59),Unmarried,White,Pneumonia
+(40 - 49),Unmarried,White,Gastritis
+(50 - 79),Unmarried,White,Oedema
+(30 - 49),Unmarried,White,Jaundice
+(20 - 29),Not-in-family,White,Gastritis
+(40 - 49),Unmarried,White,Pneumonia
+(20 - 29),Not-in-family,Black,Dementia
+(70 - 89),Not-in-family,White,Pneumonia
+(40 - 69),Unmarried,Other,Gastritis
+(40 - 49),Not-in-family,White,Diarrhoea
+(30 - 49),Unmarried,Black,Uremia
+(40 - 69),Unmarried,White,Emphysema
+(30 - 39),Unmarried,White,Cardiomyopathy
+(50 - 69),Not-in-family,White,Pneumonia
+(50 - 79),Not-in-family,White,Cardiac arrest
+(60 - 79),Not-in-family,White,Cardiac arrest
+(20 - 29),Not-in-family,White,Uremia
+(30 - 59),Unmarried,White,Nephritis
+(40 - 59),Unmarried,White,Cardiomyopathy
+(40 - 59),Not-in-family,White,Cardiac arrest
+(30 - 39),Not-in-family,White,Dementia
+(40 - 49),Unmarried,White,Dementia
+(40 - 59),Own-child,White,Jaundice
+(30 - 39),Unmarried,Black,Gastritis
+(30 - 49),Unmarried,White,Dementia
+(50 - 59),Not-in-family,Asian-Pac-Islander,Insomnia
+(30 - 39),Unmarried,White,Emphysema
+(30 - 59),Unmarried,White,Nephritis
+(40 - 59),Not-in-family,White,Pneumonia
+(30 - 59),Unmarried,White,Cardiomyopathy
+(20 - 29),Not-in-family,White,Nephritis
+(40 - 59),Not-in-family,Black,Cardiac arrest
+(30 - 49),Unmarried,White,Angina Pectoris
+(40 - 69),Not-in-family,White,Angina Pectoris
+(40 - 49),Not-in-family,White,Angina Pectoris
+(20 - 29),Not-in-family,White,Dementia
+(20 - 49),Not-in-family,White,Gastritis
+(40 - 49),Not-in-family,White,Cardiac arrest
+(40 - 69),Not-in-family,White,Gastritis
+(40 - 49),Not-in-family,White,Nephritis
+(40 - 69),Own-child,White,Uremia
+(50 - 59),Unmarried,Black,Jaundice
+(30 - 49),Unmarried,White,Schizophernia
+(40 - 69),Unmarried,Black,Jaundice
+(40 - 69),Not-in-family,White,Oedema
+(20 - 49),Not-in-family,White,Insomnia
+(40 - 59),Own-child,White,Dementia
+(40 - 59),Not-in-family,White,Gastritis
+(30 - 59),Not-in-family,White,Oedema
+(30 - 39),Own-child,White,Cardiomyopathy
+(30 - 49),Not-in-family,White,Uremia
+(40 - 59),Not-in-family,White,Cardiac arrest
+(30 - 49),Unmarried,Amer-Indian-Eskimo,Asthama
+(40 - 59),Unmarried,White,Oedema
+(50 - 59),Unmarried,Black,Oedema
+(40 - 59),Unmarried,White,Dementia
+(30 - 49),Not-in-family,White,Gastritis
+(30 - 59),Not-in-family,White,Insomnia
+(30 - 39),Unmarried,White,Uremia
+(40 - 49),Unmarried,White,Schizophernia
+(60 - 69),Not-in-family,White,Asthama
+(30 - 59),Own-child,White,Uremia
+(40 - 69),Unmarried,White,Gastritis
+(40 - 69),Unmarried,White,Insomnia
+(40 - 69),Unmarried,White,Asthama
+(40 - 69),Not-in-family,White,Oedema

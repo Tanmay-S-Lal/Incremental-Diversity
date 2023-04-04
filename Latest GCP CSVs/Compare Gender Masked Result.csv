@@ -1,0 +1,167 @@
+Lower_Age,Upper_Age,Gender,Education,Marital_Status,Disease
+20,29,M/F,Bachelors,Married-civ-spouse,Insomnia
+20,39,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+30,39,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+30,39,M/F,Bachelors,Married-civ-spouse,Jaundice
+30,49,M/F,Bachelors,Married-civ-spouse,Pneumonia
+30,59,M/F,Bachelors,Married-civ-spouse,Asthama
+40,49,M/F,Bachelors,Married-civ-spouse,Angina Pectoris
+40,59,M/F,Bachelors,Married-civ-spouse,Dementia
+40,59,M/F,Bachelors,Married-civ-spouse,Schizophernia
+40,69,M/F,Bachelors,Married-civ-spouse,Nephritis
+20,29,M/F,Bachelors,Married-civ-spouse,Gastritis
+20,29,M/F,Bachelors,Married-civ-spouse,Schizophernia
+20,39,M/F,Bachelors,Married-civ-spouse,Oedema
+20,39,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+20,49,M/F,Bachelors,Married-civ-spouse,Pneumonia
+20,49,M/F,Bachelors,Married-civ-spouse,Cardiac arrest
+20,49,M/F,Bachelors,Married-civ-spouse,Pneumonia
+30,39,M/F,Bachelors,Married-civ-spouse,Emphysema
+30,39,M/F,Bachelors,Married-civ-spouse,Insomnia
+30,39,M/F,Bachelors,Married-civ-spouse,Gastritis
+30,39,M/F,Bachelors,Married-civ-spouse,Dementia
+30,39,M/F,Bachelors,Married-civ-spouse,Uremia
+30,39,M/F,Bachelors,Married-civ-spouse,Asthama
+30,39,M/F,Bachelors,Married-civ-spouse,Insomnia
+30,39,M/F,Bachelors,Married-civ-spouse,Uremia
+30,39,M/F,Bachelors,Married-civ-spouse,Asthama
+30,39,M/F,Bachelors,Married-civ-spouse,Angina Pectoris
+30,49,M/F,Bachelors,Married-civ-spouse,Cardiac arrest
+30,49,M/F,Bachelors,Married-civ-spouse,Jaundice
+30,49,M/F,Bachelors,Married-civ-spouse,Jaundice
+30,49,M/F,Bachelors,Married-civ-spouse,Oedema
+30,49,M/F,Bachelors,Married-civ-spouse,Diarrhoea
+30,49,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+30,59,M/F,Bachelors,Married-civ-spouse,Jaundice
+30,59,M/F,Bachelors,Married-civ-spouse,Asthama
+30,59,M/F,Bachelors,Married-civ-spouse,Diarrhoea
+30,59,M/F,Bachelors,Married-civ-spouse,Cardiac arrest
+30,59,M/F,Bachelors,Married-civ-spouse,Asthama
+30,59,M/F,Bachelors,Married-civ-spouse,Pneumonia
+30,59,M/F,Bachelors,Married-civ-spouse,Pneumonia
+30,59,M/F,Bachelors,Married-civ-spouse,Gastritis
+30,59,M/F,Bachelors,Married-civ-spouse,Angina Pectoris
+30,59,M/F,Bachelors,Married-civ-spouse,Emphysema
+30,59,M/F,Bachelors,Married-civ-spouse,Dementia
+30,59,M/F,Bachelors,Married-civ-spouse,Nephritis
+30,59,M/F,Bachelors,Married-civ-spouse,Uremia
+30,59,M/F,Bachelors,Married-civ-spouse,Cardiac arrest
+40,49,M/F,Bachelors,Married-civ-spouse,Oedema
+40,49,M/F,Bachelors,Married-civ-spouse,Nephritis
+40,49,M/F,Bachelors,Married-civ-spouse,Emphysema
+40,49,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+40,49,M/F,Bachelors,Married-civ-spouse,Nephritis
+40,49,M/F,Bachelors,Married-civ-spouse,Schizophernia
+40,59,M/F,Bachelors,Married-civ-spouse,Dementia
+40,59,M/F,Bachelors,Married-civ-spouse,Emphysema
+40,59,M/F,Bachelors,Married-civ-spouse,Angina Pectoris
+40,59,M/F,Bachelors,Married-civ-spouse,Schizophernia
+40,59,M/F,Bachelors,Married-civ-spouse,Insomnia
+40,59,M/F,Bachelors,Married-civ-spouse,Emphysema
+40,59,M/F,Bachelors,Married-civ-spouse,Uremia
+40,59,M/F,Bachelors,Married-civ-spouse,Insomnia
+40,59,M/F,Bachelors,Married-civ-spouse,Uremia
+40,69,M/F,Bachelors,Married-civ-spouse,Angina Pectoris
+40,69,M/F,Bachelors,Married-civ-spouse,Dementia
+40,69,M/F,Bachelors,Married-civ-spouse,Pneumonia
+40,69,M/F,Bachelors,Married-civ-spouse,Nephritis
+40,69,M/F,Bachelors,Married-civ-spouse,Pneumonia
+40,69,M/F,Bachelors,Married-civ-spouse,Insomnia
+40,69,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+50,59,M/F,Bachelors,Married-civ-spouse,Insomnia
+50,59,M/F,Bachelors,Married-civ-spouse,Oedema
+50,59,M/F,Bachelors,Married-civ-spouse,Dementia
+50,59,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+50,69,M/F,Bachelors,Married-civ-spouse,Asthama
+50,69,M/F,Bachelors,Married-civ-spouse,Insomnia
+50,69,M/F,Bachelors,Married-civ-spouse,Diarrhoea
+50,69,M/F,Bachelors,Married-civ-spouse,Insomnia
+50,69,M/F,Bachelors,Married-civ-spouse,Gastritis
+50,79,M/F,Bachelors,Married-civ-spouse,Cardiac arrest
+50,79,M/F,Bachelors,Married-civ-spouse,Nephritis
+50,79,M/F,Bachelors,Married-civ-spouse,Cardiomyopathy
+50,79,M/F,Bachelors,Married-civ-spouse,Nephritis
+60,69,M/F,Bachelors,Married-civ-spouse,Insomnia
+20,29,M/F,Bachelors,Never-married,Cardiomyopathy
+20,29,M/F,Bachelors,Never-married,Emphysema
+20,29,M/F,Bachelors,Never-married,Schizophernia
+20,29,M/F,Bachelors,Never-married,Jaundice
+20,39,M/F,Bachelors,Never-married,Jaundice
+20,39,M/F,Bachelors,Separated,Angina Pectoris
+20,39,M/F,Bachelors,Never-married,Pneumonia
+20,49,M/F,Bachelors,Never-married,Asthama
+20,49,M/F,Bachelors,Never-married,Emphysema
+20,49,M/F,Bachelors,Never-married,Cardiac arrest
+30,49,M/F,Bachelors,Separated,Emphysema
+30,49,M/F,Bachelors,Never-married,Insomnia
+30,49,M/F,Bachelors,Never-married,Asthama
+30,59,M/F,Bachelors,Divorced,Angina Pectoris
+30,59,M/F,Bachelors,Never-married,Oedema
+30,59,M/F,Bachelors,Never-married,Dementia
+30,59,M/F,Bachelors,Never-married,Dementia
+40,49,M/F,Bachelors,Divorced,Asthama
+40,59,M/F,Bachelors,Divorced,Jaundice
+20,39,M/F,Bachelors,Never-married,Emphysema
+20,49,M/F,Bachelors,Never-married,Gastritis
+30,49,M/F,Bachelors,Divorced,Dementia
+30,59,M/F,Bachelors,Widowed,Pneumonia
+40,49,M/F,Bachelors,Divorced,Dementia
+40,69,M/F,Bachelors,Divorced,Asthama
+20,29,M/F,Bachelors,Never-married,Jaundice
+20,29,M/F,Bachelors,Never-married,Schizophernia
+20,29,M/F,Bachelors,Never-married,Asthama
+20,29,M/F,Bachelors,Never-married,Diarrhoea
+20,29,M/F,Bachelors,Never-married,Pneumonia
+20,29,M/F,Bachelors,Never-married,Nephritis
+20,29,M/F,Bachelors,Never-married,Emphysema
+20,29,M/F,Bachelors,Never-married,Cardiac arrest
+20,29,M/F,Bachelors,Never-married,Oedema
+20,29,M/F,Bachelors,Never-married,Angina Pectoris
+20,29,M/F,Bachelors,Never-married,Jaundice
+20,29,M/F,Bachelors,Never-married,Diarrhoea
+20,39,M/F,Bachelors,Never-married,Uremia
+20,39,M/F,Bachelors,Never-married,Cardiac arrest
+20,39,M/F,Bachelors,Never-married,Oedema
+20,49,M/F,Bachelors,Never-married,Schizophernia
+20,49,M/F,Bachelors,Never-married,Schizophernia
+20,49,M/F,Bachelors,Never-married,Cardiac arrest
+20,49,M/F,Bachelors,Never-married,Jaundice
+20,49,M/F,Bachelors,Never-married,Pneumonia
+30,39,M/F,Bachelors,Never-married,Emphysema
+30,39,M/F,Bachelors,Never-married,Angina Pectoris
+30,39,M/F,Bachelors,Separated,Angina Pectoris
+30,39,M/F,Bachelors,Never-married,Gastritis
+30,39,M/F,Bachelors,Never-married,Gastritis
+30,49,M/F,Bachelors,Never-married,Insomnia
+30,59,M/F,Bachelors,Never-married,Uremia
+30,59,M/F,Bachelors,Never-married,Cardiac arrest
+30,59,M/F,Bachelors,Divorced,Dementia
+30,59,M/F,Bachelors,Divorced,Diarrhoea
+30,59,M/F,Bachelors,Never-married,Diarrhoea
+30,59,M/F,Bachelors,Never-married,Oedema
+30,59,M/F,Bachelors,Never-married,Schizophernia
+40,49,M/F,Bachelors,Married-spouse-absent,Cardiomyopathy
+40,49,M/F,Bachelors,Never-married,Cardiac arrest
+40,49,M/F,Bachelors,Divorced,Cardiac arrest
+40,49,M/F,Bachelors,Never-married,Cardiac arrest
+40,59,M/F,Bachelors,Never-married,Gastritis
+40,59,M/F,Bachelors,Divorced,Dementia
+40,59,M/F,Bachelors,Never-married,Gastritis
+40,59,M/F,Bachelors,Never-married,Pneumonia
+40,59,M/F,Bachelors,Divorced,Pneumonia
+40,59,M/F,Bachelors,Never-married,Cardiomyopathy
+40,69,M/F,Bachelors,Divorced,Dementia
+40,69,M/F,Bachelors,Never-married,Diarrhoea
+50,69,M/F,Bachelors,Divorced,Pneumonia
+50,69,M/F,Bachelors,Never-married,Jaundice
+50,79,M/F,Bachelors,Divorced,Gastritis
+50,79,M/F,Bachelors,Divorced,Diarrhoea
+50,79,M/F,Bachelors,Divorced,Uremia
+50,79,M/F,Bachelors,Never-married,Pneumonia
+60,69,M/F,Bachelors,Widowed,Cardiomyopathy
+60,79,M/F,Bachelors,Divorced,Pneumonia
+60,89,M/F,Bachelors,Widowed,Emphysema
+20,39,M/F,Bachelors,Never-married,Cardiac arrest
+30,49,M/F,Bachelors,Never-married,Asthama
+30,49,M/F,Bachelors,Married-civ-spouse,Asthama
+40,69,M/F,Bachelors,Separated,Diarrhoea

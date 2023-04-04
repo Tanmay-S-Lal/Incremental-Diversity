@@ -1,0 +1,10 @@
+Lower_Age,Upper_Age,Gender,Zip_Code,Employment,Marital_Status
+40,49,M/F,51***,Private,Married-civ-spouse
+40,59,M/F,51***,?,Married-civ-spouse
+40,69,M/F,51***,Private,Married-civ-spouse
+50,79,M/F,51***,Private,Married-civ-spouse
+50,79,M/F,51***,Self-emp-inc,Married-civ-spouse
+30,39,M/F,51***,Private,Divorced
+30,49,M/F,51***,Private,Divorced
+60,79,M/F,51***,Private,Divorced
+90,119,M/F,51***,Private,Never-married

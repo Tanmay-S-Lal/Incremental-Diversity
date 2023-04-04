@@ -1,0 +1,26 @@
+Age,Gender,Zip Code,Education,Employment,Marital Status,Marital Parent,Relationship,Race,Salary,Disease,Disease Parent,Group ID
+39,Male,77516,Bachelors,State-gov,Never-married,Unmarried,Not-in-family,White,<=50K,Emphysema,Respiratory disease,1
+50,Male,83311,Bachelors,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,<=50K,Insomnia,Mental disorder,1
+38,Male,215646,HS-grad,Private,Divorced,Unmarried,Not-in-family,White,<=50K,Cardiac arrest,Circulatory_system disorder,1
+53,Male,234721,11th,Private,Married-civ-spouse,Married,Husband,Black,<=50K,Nephritis,Excretory_system disorder,2
+28,Female,338409,Bachelors,Private,Married-civ-spouse,Married,Wife,Black,<=50K,Cardiomyopathy,Circulatory_system disorder,2
+37,Female,284582,Masters,Private,Married-civ-spouse,Married,Wife,White,<=50K,Cardiac arrest,Circulatory_system disorder,2
+49,Female,160187,9th,Private,Married-spouse-absent,Married,Not-in-family,Black,<=50K,Jaundice,Digestive disorder,3
+52,Male,209642,HS-grad,Self-emp-not-inc,Married-civ-spouse,Married,Husband,White,>50K,Insomnia,Mental disorder,3
+31,Female,45781,Masters,Private,Never-married,Unmarried,Not-in-family,White,>50K,Diarrhoea,Digestive disorder,3
+42,Male,159449,Bachelors,Private,Married-civ-spouse,Married,Husband,White,>50K,Oedema,Excretory_system disorder,4
+37,Male,280464,Some-college,Private,Married-civ-spouse,Married,Husband,Black,>50K,Gastritis,Digestive disorder,4
+30,Male,141297,Bachelors,State-gov,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Emphysema,Respiratory disease,4
+23,Female,122272,Bachelors,Private,Never-married,Unmarried,Own-child,White,<=50K,Jaundice,Digestive disorder,5
+32,Male,205019,Assoc-acdm,Private,Never-married,Unmarried,Not-in-family,Black,<=50K,Nephritis,Excretory_system disorder,5
+40,Male,121772,Assoc-voc,Private,Married-civ-spouse,Married,Husband,Asian-Pac-Islander,>50K,Asthama,Respiratory disease,5
+34,Male,245487,7th-8th,Private,Married-civ-spouse,Married,Husband,Amer-Indian-Eskimo,<=50K,Uremia,Excretory_system disorder,6
+25,Male,176756,HS-grad,Self-emp-not-inc,Never-married,Unmarried,Own-child,White,<=50K,Uremia,Excretory_system disorder,6
+32,Male,186824,HS-grad,Private,Never-married,Unmarried,Unmarried,White,<=50K,Angina Pectoris,Circulatory_system disorder,6
+38,Male,28887,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Jaundice,Digestive disorder,7
+43,Female,292175,Masters,Self-emp-not-inc,Divorced,Unmarried,Unmarried,White,>50K,Jaundice,Digestive disorder,7
+40,Male,193524,Doctorate,Private,Married-civ-spouse,Married,Husband,White,>50K,Diarrhoea,Digestive disorder,7
+54,Female,302146,HS-grad,Private,Separated,Unmarried,Unmarried,Black,<=50K,Schizophernia,Mental disorder,8
+35,Male,76845,9th,Federal-gov,Married-civ-spouse,Married,Husband,Black,<=50K,Gastritis,Digestive disorder,8
+43,Male,117037,11th,Private,Married-civ-spouse,Married,Husband,White,<=50K,Gastritis,Digestive disorder,8
+59,Female,109015,HS-grad,Private,Divorced,Unmarried,Unmarried,White,<=50K,Schizophernia,Mental disorder,9

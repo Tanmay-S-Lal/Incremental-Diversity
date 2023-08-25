@@ -1,4 +1,4 @@
-# Incremental-Diversity
+# Incremental-Diversity-Algorithm
 
 Codebase and Journal Paper Components for Incremental Diversity
 
